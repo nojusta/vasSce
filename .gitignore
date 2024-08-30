@@ -2,9 +2,6 @@
 # https://github.com/github/gitignore/blob/main/WordPress.gitignore
 
 # Core
-#
-# Note: if you want to stage/commit WP core files
-# you can delete this whole section/until Configuration.
 /wp-admin/
 /wp-content/index.php
 /wp-content/languages
@@ -42,7 +39,4 @@ wp-config.php
 #/wp-content/plugins
 
 # All themes
-#
-# Note: If you wish to whitelist themes,
-# uncomment the next line
-#/wp-content/themes
+/wp-content/themes
