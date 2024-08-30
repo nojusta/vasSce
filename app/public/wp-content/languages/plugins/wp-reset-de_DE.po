@@ -1,0 +1,489 @@
+# Translation of Plugins - WP Reset &#8211; Most Advanced WordPress Reset Tool - Stable (latest release) in German
+# This file is distributed under the same license as the Plugins - WP Reset &#8211; Most Advanced WordPress Reset Tool - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-05-18 23:13:03+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.1\n"
+"Language: de\n"
+"Project-Id-Version: Plugins - WP Reset &#8211; Most Advanced WordPress Reset Tool - Stable (latest release)\n"
+
+#: wp-reset.php:1692
+msgid "Type in: %s"
+msgstr "Typ: %s"
+
+#: wp-reset.php:1526
+msgid "Thank you for purchasing WP Reset PRO!"
+msgstr "Vielen Dank für den Kauf von WP Reset PRO!"
+
+#: wp-reset.php:2143
+msgid "Activate PRO License"
+msgstr "PRO-Lizenz aktivieren"
+
+#: wp-reset.php:2132
+msgid "WP Reset PRO"
+msgstr "WP Reset PRO"
+
+#: wp-reset.php:2105
+msgid "Premium Email Support"
+msgstr "Premium-E-Mail-Support"
+
+#: wp-reset.php:1966
+msgid "Switch WP Version"
+msgstr "WP-Version wechseln"
+
+#: wp-reset.php:1925
+msgid "Clean wp-content Folder"
+msgstr "wp-content-Ordner bereinigen"
+
+#: wp-reset.php:1894
+msgid "Delete MU Plugins & Drop-ins"
+msgstr "MU Plugins & Drop-ins löschen"
+
+#: wp-reset.php:1863
+msgid "Delete Widgets"
+msgstr "Widgets löschen"
+
+#: wp-reset.php:1831
+msgid "Delete Content"
+msgstr "Inhalte löschen"
+
+#: wp-reset.php:1821
+msgid "Delete Local Data"
+msgstr "Lokale Daten löschen"
+
+#: wp-reset.php:1812
+msgid "Purge Cache"
+msgstr "Cache bereinigen"
+
+#: wp-reset.php:1792
+msgid "Reset User Roles"
+msgstr "Benutzerrollen zurücksetzen"
+
+#: wp-reset.php:1715
+msgid "Reset WordPress &amp; Delete All Custom Files &amp; Data"
+msgstr "Reset WordPress &amp; Alle individuellen Dateien &amp; Daten löschen"
+
+#: wp-reset.php:1712
+msgid "Type <b>reset</b> in the confirmation field to confirm the reset and then click the \"Reset WordPress &amp; Delete All Custom Files &amp; Data\" button. <b>There is NO UNDO."
+msgstr "Tippe <b>reset</b> in das Eingabefeld unten, um das Zurücksetzen zu bestätigen und klicke dann auf den Button \"Reset WordPress &amp; Alle individuellen Dateien &amp; Daten löschen\"<b>. Es gibt KEIN UNDO."
+
+#: wp-reset.php:1701
+msgid "Nuclear Site Reset"
+msgstr "Atomarer Website-Reset"
+
+#: wp-reset.php:1669
+msgid "Options Reset"
+msgstr "Optionen Reset"
+
+#: wp-reset.php:1651
+msgid "WP Reset plugin will be reactivated if that option is chosen"
+msgstr "Das WP-Reset-Plugin wird wieder aktiviert, falls diese Option gewählt wurde."
+
+#: wp-reset.php:1648
+msgid "see the table above to find out what exactly will be reset or deleted"
+msgstr "Schau dir obige Tabelle an, um zu erfahren, was genau zurückgesetzt oder gelöscht wird."
+
+#: wp-reset.php:1646
+msgid "remember, always <b>make a backup first</b> or use <a href=\"#\" class=\"change-tab\" data-tab=\"2\">snapshots</a>"
+msgstr "Nicht vergessen: Immer zuerst ein <b>Backup machen</b> oder <a href=\"#\" class=\"change-tab\" data-tab=\"2\">Snapshots</a> verwenden."
+
+#: wp-reset.php:1644
+msgid "What happens when I run any Reset tool?"
+msgstr "Was passiert, wenn ich ein Reset-Werkzeug ausführe?"
+
+#: wp-reset.php:1437
+msgid "PRO"
+msgstr "PRO"
+
+#: wp-reset.php:1342
+msgid "Open documentation for this tool"
+msgstr "Dokumentation für dieses Werkzeug öffnen"
+
+#: wp-reset.php:401
+msgid "is already installed"
+msgstr "ist bereits installiert"
+
+#: wp-reset.php:400
+msgid "Could not install"
+msgstr "Konnte nicht installiert werden"
+
+#: wp-reset.php:399
+msgid "Could not delete"
+msgstr "Konnte nicht gelöscht werden"
+
+#: wp-reset.php:398
+msgid "Could not deactivate"
+msgstr "Konnte nicht deaktiviert werden"
+
+#: wp-reset.php:397
+msgid "Could not activate"
+msgstr "Konnte nicht aktiviert werden"
+
+#: wp-reset.php:396
+msgid "Installing"
+msgstr "Installiere"
+
+#: wp-reset.php:395
+msgid "Deleting"
+msgstr "Wird gelöscht"
+
+#: wp-reset.php:394
+msgid "Deactivating"
+msgstr "Deaktiviere"
+
+#: wp-reset.php:393
+msgid "Activating"
+msgstr "Aktiviere"
+
+#: wp-reset.php:390
+msgid "Enter snapshot name or brief description"
+msgstr "Snapshot-Name oder kurze Beschreibung eingeben"
+
+#: wp-reset.php:389
+msgid "Snapshot name or brief description, ie: before plugin install"
+msgstr "Snapshot-Name oder eine kurze Beschreibung, zum Beispiel: vor Plugin Installation"
+
+#: wp-reset.php:388
+msgid "Create snapshot"
+msgstr "Snapshot erstellen"
+
+#: wp-reset.php:387
+msgid "Creating snapshot. Please wait."
+msgstr "Erstelle Snapshot. Bitte warten."
+
+#: wp-reset.php:386
+msgid "Snapshot created"
+msgstr "Snapshot erstellt"
+
+#: wp-reset.php:1348
+msgid "Create Snapshot"
+msgstr "Snapshot erstellen"
+
+#: wp-reset.php:1784
+msgid "All options (mods) for all themes will be reset; not just for the active theme. The tool works only for themes that use the <a href=\"https://codex.wordpress.org/Theme_Modification_API\" target=\"_blank\">WordPress theme modification API</a>. If options are saved in some other, custom way they won't be reset.<br> Always <a href=\"#\" class=\"create-new-snapshot\" data-description=\"Before resetting theme options\">create a snapshot</a> before using this tool if you want to be able to undo its actions."
+msgstr "Alle Optionen (mods) für alle Themes werden zurückgesetzt; nicht nur für das aktive Theme. Dieses Werkzeug funktioniert nur für Themes, die die <a href=\"https://codex.wordpress.org/Theme_Modification_API\" target=\"_blank\">WordPress theme modification API</a> einsetzen. Falls Optionen in anderer Art und Weise gespeichert werden, dann werden diese nicht zurückgesetzt.<br><a href=\"#\" class=\"create-new-snapshot\" data-description=\"Before resetting theme options\">Erstelle immer einen Snapshot</a> bevor du diese Option durchführst, falls du in der Lage sein möchtest diese Aktion rückgängig zu machen."
+
+#: wp-reset.php:1750
+msgid "Index of Tools"
+msgstr "Weitere Werkzeuge"
+
+#: wp-reset.php:1693
+msgid "Reset Site"
+msgstr "Website Reset"
+
+#: wp-reset.php:1689
+msgid "Type <b>reset</b> in the confirmation field to confirm the reset and then click the \"Reset WordPress\" button.<br>Always <a href=\"#\" class=\"create-new-snapshot\" data-description=\"Before resetting the site\">create a snapshot</a> before resetting if you want to be able to undo."
+msgstr "Tippe <b>reset</b> in das Eingabefeld unten zur Bestätigung und klicke auf den Button „Website Reset“.<br><a href=\"#\" class=\"create-new-snapshot\" data-description=\"Before resetting the site\">Erstelle einen Snapshot</a> immer bevor du einen Reset ausführst, falls du in der Lage sein willst es rückgängig zu machen."
+
+#: wp-reset.php:1683
+msgid "Site Reset"
+msgstr "Website Reset"
+
+#: wp-reset.php:1647
+msgid "you will have to confirm the action one more time"
+msgstr "Du musst die Aktion noch einmal bestätigen."
+
+#: wp-reset.php:1573
+msgid "Please read carefully before proceeding"
+msgstr "Bevor du weitermachst, nimm bitte folgendes zur Kenntnis"
+
+#: wp-reset.php:1434 wp-reset.php:2312
+msgid "Snapshots"
+msgstr "Snapshots"
+
+#: wp-reset.php:383
+msgid "Clicking \"Reset WordPress\" will reset your site to default values. All content will be lost. Always <a href=\"#\" class=\"create-new-snapshot\" data-description=\"Before resetting the site\">create a snapshot</a> if you want to be able to undo.</b>"
+msgstr "Indem du auf „Reset WordPress“ klickst, wirst du deine Website auf die Standard-Einstellungen zurücksetzen. Alle Inhalte werden dabei unwiderruflich verloren gehen. <a href=\"#\" class=\"create-new-snapshot\" data-description=\"Before resetting the site\">Erstelle immer einen Snapshot</a>, falls du in der Lage sein willst, diese Aktion rückgängig zu machen.</b>"
+
+#. Description of the plugin
+#: wp-reset.php
+msgid "Reset the entire site or just selected parts while reserving the option to undo by using snapshots."
+msgstr "Setze die gesamte Website oder nur ausgewählte Teile zurück, während du dir die Option zum Rückgängigmachen mit Hilfe von Snapshots vorbehältst."
+
+#: wp-reset.php:391
+msgid "Create a new snapshot"
+msgstr "Erstelle einen neuen Snapshot"
+
+#: wp-reset.php:2020
+msgid "Have a set of plugins (and themes) that you install and activate after every reset? Or on every fresh WordPress installation? Well, no more clicking install &amp; active for ten minutes! Build the collection once and install it with one click as many times as needed.</p><p>WP Reset stores collections in the cloud so they're accessible on every site you build. You can use free plugins and themes from the official repo, and PRO ones by uploading a ZIP file. We'll safely store your license keys too, so you have everything in one place."
+msgstr "Hast du ein Set an Plugins (und Themes), das du nach jedem Zurücksetzen installierst und aktivierst? Oder in jeder neuen WordPress-Installation? Nun, kein Klicken mehr auf Installieren und Aktivieren für 10 Minuten! Stelle einmalig eine Kollektion zusammen und installiere sie so oft wie nötig.</p><p>WP Reset speichert Kollektionen in der Cloud, sodass diese für jede deiner Websites verfügbar sind. Dabei kannst du freie Plugins und Themes aus dem offiziellen WordPress-Repository benutzen oder PRO-Versionen, indem du diese als zip-Datei hochlädst. Wir speichern auch deine Lizenz-Schlüssel auf sichere Art und Weise, damit du alles an einem Platz hast."
+
+#: wp-reset.php:1554
+msgid "Please help us spread the word &amp; keep the plugin up-to-date"
+msgstr "Mach mit &amp; lass uns das Plugin auf dem neuesten Stand zu halten"
+
+#: wp-reset.php:382
+msgid "Are you sure you want to reset the site?"
+msgstr "Bist du sicher, dass du einen Reset der Website machen möchtest?"
+
+#: wp-reset.php:2114
+msgid "No need for donations :) If you can give us a <a href=\"https://wordpress.org/support/plugin/wp-reset/reviews/#new-post\" target=\"_blank\">five star rating</a> you'll help out more than you can imagine. A public mention <a href=\"https://twitter.com/webfactoryltd\" target=\"_blank\">@webfactoryltd</a> also does wonders. Thank you!"
+msgstr "Es sind keine Spenden notwendig :) Wenn du uns eine <a href=\"https://wordpress.org/support/plugin/wp-reset/reviews/#new-post\" target=\"_blank\">Fünf-Sterne-Bewertung</a> gibst, hilfst du uns mehr, als du dir vorstellen kannst. Eine öffentliche Erwähnung und Empfehlung <a href=\"https://twitter.com/webfactoryltd\" target=\"_blank\">@webfactoryltd</a> wirkt ebenfalls Wunder. Vielen Dank dafür!"
+
+#: wp-reset.php:2076
+msgid "All tools and features are explained in detail in <a href=\""
+msgstr "Alle Werkzeuge und Funktionen werden detailliert erklärt auf <a href=\""
+
+#: wp-reset.php:2074
+msgid "Documentation"
+msgstr "Dokumentation"
+
+#: wp-reset.php:1782
+msgid "Reset Theme Options"
+msgstr "Reset-Theme-Optionen"
+
+#: wp-reset.php:1435
+msgid "Collections"
+msgstr "Kollektionen"
+
+#: wp-reset.php:1999
+msgid "This action deletes the .htaccess file located in <code>"
+msgstr "Diese Aktion löscht die .htaccess-Datei in <code>"
+
+#: wp-reset.php:1997
+msgid "Delete .htaccess File"
+msgstr ".htaccess-Datei löschen"
+
+#: wp-reset.php:266
+msgid "Notice is already dismissed."
+msgstr "Hinweis ist bereits verworfen."
+
+#: wp-reset.php:261 wp-reset.php:858
+msgid "You are not allowed to run this action."
+msgstr "Du hast keine Berechtigung für diese Aktion."
+
+#: wp-reset.php:1954
+msgid "There are no custom tables. There's nothing for this tool to empty or delete."
+msgstr "Es gibt keine individuellen Tabellen. Dieses Werkzeug kann nichts leeren oder löschen."
+
+#: wp-reset.php:1944
+msgid "The following "
+msgstr "The following "
+
+#: wp-reset.php:1942
+msgid "This action affects only custom tables with <code>"
+msgstr "Diese Aktion betrifft nur Tabellen mit dem Präfix <code>"
+
+#: wp-reset.php:1940
+msgid "Empty or Delete Custom Tables"
+msgstr "Individuelle Tabellen leeren oder löschen"
+
+#: wp-reset.php:1887
+msgid "All plugins will be deleted except for WP Reset which will remain active.<br><b>There is NO UNDO. WP Reset does not make any file backups.</b>"
+msgstr "Alle Plugins - bis auf das WP-Reset-Plugin, welches aktiviert bleibt - werden gelöscht.<br><b>Es gibt KEIN UNDO. WP Reset macht auch keine Daten-Backups.</b>"
+
+#: wp-reset.php:1885
+msgid "Delete Plugins"
+msgstr "Plugins löschen"
+
+#: wp-reset.php:1878
+msgid "All themes will be deleted. Including the currently active theme - "
+msgstr "Alle Themes werden gelöscht, inklusive des derzeit aktiven - "
+
+#: wp-reset.php:1876
+msgid "Delete Themes"
+msgstr "Themes löschen"
+
+#: wp-reset.php:1914
+msgid "All files in <code>"
+msgstr "Alle Dateien in <code>"
+
+#: wp-reset.php:1912
+msgid "Clean uploads Folder"
+msgstr "uploads-Ordner bereinigen"
+
+#: wp-reset.php:1802
+msgid "Delete Transients"
+msgstr "Transiente Daten löschen"
+
+#: wp-reset.php:1188
+msgid "Open WP Reset Tools"
+msgstr "WP-Reset-Werkzeuge öffnen"
+
+#: wp-reset.php:2112
+msgid "Care to Help Out?"
+msgstr "Möchtest du helfen?"
+
+#: wp-reset.php:1542
+msgid "WP Reset is not compatible with multisite!"
+msgstr "WP Reset ist nicht Multisite-kompatibel!"
+
+#: wp-reset.php:1212 wp-reset.php:1556
+msgid "Rate the plugin ★★★★★"
+msgstr "Das Plugin ★★★★★ bewerten"
+
+#: wp-reset.php:1212
+msgid "Rate the plugin"
+msgstr "Das Plugin bewerten"
+
+#: wp-reset.php:371
+msgid "An error has occurred."
+msgstr "Ein Fehler ist aufgetreten."
+
+#: wp-reset.php:2100
+msgid "We are very active on the <a href=\"https://wordpress.org/support/plugin/wp-reset\" target=\"_blank\">official WP Reset support forum</a>. If you found a bug, have a feature idea or just want to say hi - please drop by. We love to hear back from our users."
+msgstr "Wir sind im <a href=\"https://wordpress.org/support/plugin/wp-reset\" target=\"_blank\">offiziellen WP-Reset Support-Forum</a> sehr aktiv. Falls du einen Fehler (Bug) findest, eine Idee für ein weiteres Feature - also eine funktionale Erweiterung - hast oder einfach nur „Hi“ oder „Hallo“ sagen willst &mdash; schau bitte einfach vorbei. Wir freuen uns wirklich von unseren Benutzern zu hören."
+
+#: wp-reset.php:2098
+msgid "Public Support Forum"
+msgstr "Öffentliches Support-Forum"
+
+#: wp-reset.php:1433
+msgid "Tools"
+msgstr "Werkzeuge"
+
+#: wp-reset.php:997
+msgid "Unknown tool."
+msgstr "Unbekanntes Werkzeug."
+
+#: wp-reset.php:1688
+msgid "Reactivate all currently active plugins"
+msgstr "alle derzeit aktiven Plugins reaktivieren"
+
+#: wp-reset.php:1686 wp-reset.php:1710
+msgid "Reactivate WP Reset plugin"
+msgstr "WP-Reset-Plugin reaktivieren"
+
+#: wp-reset.php:1675 wp-reset.php:1685
+msgid "Reactivate current theme"
+msgstr "aktuelles Theme reaktivieren"
+
+#: wp-reset.php:1351 wp-reset.php:2313
+msgid "Collapse / expand box"
+msgstr "Box ein/ausklappen"
+
+#: wp-reset.php:1543
+msgid "Please be careful when using WP Reset with multisite enabled. It's not recommended to reset the main site. Sub-sites should be OK. We're working on making it fully compatible with WP-MU. <b>Till then please be careful.</b> Thank you for understanding."
+msgstr "Bitte sei vorsichtig, wenn du WP Reset in einer Multisite verwendest. Es wird nicht empfohlen die Haupt-Website zurückzusetzen. Sub-Websites der Multisite sollten OK sein. Wir arbeiten aktuell daran, das Plugin mit WordPress-Multisite kompatibel zu machen. <b>Bis dahin sei bitte vorsichtig.</b> Danke für dein Verständnis."
+
+#. Plugin URI of the plugin
+#: wp-reset.php
+msgid "https://wpreset.com/"
+msgstr "https://wpreset.com/"
+
+#: wp-reset.php:1656
+msgid "All actions have to be confirmed. If you want to skip confirmation use the standard %s option. Please be careful and backup first."
+msgstr "Alle Aktionen müssen bestätigt werden. Wenn du die Bestätigung überspringen möchtest, verwende die Standardoption %s. Bitte sei vorsichtig und mache zuerst ein Backup."
+
+#: wp-reset.php:1655
+msgid "All tools available via GUI are available in WP-CLI as well. To get the list of commands run %s. Instead of the active user, the first user with admin privileges found in the database will be restored. "
+msgstr "Alle über die GUI verfügbaren Werkzeuge sind auch in WP-CLI verfügbar. Um die Liste der Befehle zu erhalten, führe %s aus. Anstelle des aktiven Benutzers wird der erste Benutzer mit Administratorrechten in der Datenbank wiederhergestellt. "
+
+#: wp-reset.php:1654
+msgid "WP-CLI Support"
+msgstr "WP-CLI Unterstützung"
+
+#: wp-reset.php:1556
+msgid "I've already rated it"
+msgstr "Ich habe es bereits bewertet"
+
+#: wp-reset.php:1556
+msgid "Rate WP Reset"
+msgstr "WP Reset bewerten"
+
+#: wp-reset.php:1555
+msgid "If you use &amp; enjoy WP Reset, <b>please rate it on WordPress.org</b>. It only takes a second and helps us keep the plugin maintained. Thank you!"
+msgstr "Wenn du WP Reset benutzt und es dir Freude bereitet, dann <b>bewerte uns bitte auf WordPress.org</b>. Es dauert nur eine Sekunde und hilft uns, das Plugin instand zu halten. Vielen Dank!"
+
+#: wp-reset.php:1413
+msgid "Sorry, you are not allowed to access this page."
+msgstr "Du hast leider keine Berechtigung, auf diese Seite zuzugreifen."
+
+#: wp-reset.php:1278
+msgid "<b>Site has been successfully reset to default settings.</b><br>User \"%s\" was restored with the password unchanged. Open <a href=\"%s\">WP Reset</a> to do another reset."
+msgstr "<b>Die Website wurde erfolgreich auf die Standard-Einstellungen zurückgesetzt (Reset).</b><br>Benutzer „%s“ wurde mit unverändertem Passwort wiederhergestellt. Öffne <a href=\"%s\">WP Reset</a>, falls du wieder einen Reset durchzuführen willst."
+
+#: wp-reset.php:1211
+msgid "Plugin Homepage"
+msgstr "Plugin Homepage"
+
+#: wp-reset.php:1210 wp-reset.php:1436
+msgid "Support"
+msgstr "Support"
+
+#: wp-reset.php:1210
+msgid "Get help"
+msgstr "Hilfe erhalten"
+
+#: wp-reset.php:385
+msgid "Resetting in progress. Please wait."
+msgstr "Reset in Bearbeitung. Bitte hab etwas Geduld."
+
+#: wp-reset.php:381
+msgid "Are you sure you want to proceed?"
+msgstr "Bist du sicher, dass du damit weitermachen willst?"
+
+#: wp-reset.php:379
+msgid "OK"
+msgstr "OK"
+
+#: wp-reset.php:378
+msgid "Cancel"
+msgstr "Abbrechen"
+
+#: wp-reset.php:377
+msgid "Invalid confirmation"
+msgstr "Ungültige Bestätigung"
+
+#: wp-reset.php:376
+msgid "Please type \"reset\" in the confirmation field."
+msgstr "Bitte „reset“ im Bestätigungsfeld eingeben."
+
+#: wp-reset.php:370
+msgid "An undocumented error has occurred. Please refresh the page and try again."
+msgstr "Ein undokumentierter Fehler ist aufgetreten. Bitte die Seite neu laden und erneut versuchen."
+
+#. Author URI of the plugin
+#: wp-reset.php
+msgid "https://www.webfactoryltd.com/"
+msgstr "https://www.webfactoryltd.com/"
+
+#. Author of the plugin
+#: wp-reset.php
+msgid "WebFactory Ltd"
+msgstr "WebFactory Ltd"
+
+#. Plugin Name of the plugin
+#: wp-reset.php wp-reset.php:247 wp-reset.php:372 wp-reset.php:1421
+msgid "WP Reset"
+msgstr "WP Reset"
+
+#: wp-reset.php:1714
+msgid "Type in \"reset\""
+msgstr "Gib hier „reset“ ein"
+
+#: wp-reset.php:1432
+msgid "Reset"
+msgstr "Zurücksetzen"
+
+#: wp-reset.php:1650
+msgid "you will be logged out, automatically logged back in and taken to the admin dashboard"
+msgstr "Du wirst ausgeloggt, automatisch wieder eingeloggt und zum Admin-Dashboard weitergeleitet."
+
+#: wp-reset.php:1649
+msgid "site title, WordPress URL, site URL, site language, search engine visibility and current user will always be restored"
+msgstr "Website-Titel, WordPress-URL, Website-URL, Website-Sprache, Suchmaschinen-Sichtbarkeit und der aktuelle Benutzer werden immer wiederhergestellt."
+
+#: wp-reset.php:1147
+msgid "Something went wrong. Please refresh the page and try again."
+msgstr "Etwas ist schief gelaufen. Bitte die Seite neu laden und erneut versuchen."
+
+#: wp-reset.php:1153
+msgid "<b>Invalid confirmation code.</b> Please type \"reset\" in the confirmation field."
+msgstr "<b>Ungültiger Bestätigungscode.</b> Bitte gib „reset“ in das Bestätigungsfeld ein."
+
+#: wp-reset.php:384
+msgid "Click \"Cancel\" to abort."
+msgstr "Klicke „Abbrechen“ zum Abbrechen."
+
+#: wp-reset.php:1252
+msgid "Visit WP Reset page for more info"
+msgstr "Besuche die WP-Reset Homepage für weitere Informationen"
+
+#: wp-reset.php:380
+msgid "Reset WordPress"
+msgstr "Reset WordPress"

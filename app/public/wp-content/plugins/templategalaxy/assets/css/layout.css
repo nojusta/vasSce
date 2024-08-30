@@ -1,0 +1,91 @@
+/* *
+*style for layout goes here
+*/
+.wp-block-group.tg-number-holder {
+  height: 50px;
+  min-width: 50px;
+  text-align: center;
+  display: flex;
+  align-items: center;
+}
+.wp-block-post-excerpt__excerpt a,
+.entry-content.wp-block-post-content a {
+  text-decoration: none !important;
+}
+.wp-block-group.tg-product-image {
+  position: relative;
+  overflow: hidden;
+}
+.wp-block-button.wc-block-components-product-button a,
+.wp-block-button.wc-block-components-product-button .wp-block-button__link.add_to_cart_button {
+  border-radius: 0;
+  background: #fff;
+  text-transform: uppercase;
+  font-weight: 500;
+}
+.wp-block-button.wc-block-components-product-button a:hover,
+.wp-block-button.wc-block-components-product-button .wp-block-button__link.add_to_cart_button:hover {
+  background: #000;
+  color: #fff !important;
+}
+.wp-block-group.tg-product-image .wp-block-button.wc-block-components-product-button {
+  position: absolute;
+  bottom: 0;
+  left: 5%;
+  width: 90%;
+  opacity: 0;
+  transition: all ease 0.23s;
+}
+.products-block-post-template li:hover .wp-block-group.tg-product-image .wp-block-button.wc-block-components-product-button {
+  opacity: 1;
+  bottom: 15px;
+}
+.wc-block-components-product-image.wc-block-grid__product-image {
+  margin: 0;
+}
+.products-block-post-template li:hover .wc-block-components-product-image.wc-block-grid__product-image img {
+  transform: scale(1.1);
+}
+.tg-brand-logos.wp-block-gallery img {
+  width: auto !important;
+  padding: 0 50px;
+  height: auto;
+  max-height: 40px;
+  max-width: 90% !important;
+}
+.wp-block-group.tg-slider-control {
+  display: block !important;
+  margin-block-start: 0;
+}
+.tg-slider,
+.tg-post-slider,
+.wp-block-group.tg-post-slider-holder {
+  position: relative;
+}
+.tg-slider .swiper-pagination,
+.tg-post-slider .swiper-pagination {
+  position: absolute;
+  bottom: 50px;
+  width: 100%;
+  text-align: center;
+}
+.wp-block-group.tg-slider-control {
+  width: 100%;
+  text-align: center;
+}
+.tg-news-ticker {
+  height: 40px !important;
+  padding: 0;
+  overflow: hidden;
+}
+.tg-news-ticker ul li {
+  height: 40px !important;
+  display: flex;
+  align-items: center;
+}
+/* .wp-block-query.tg-news-ticker-2 {
+  height: 400px;
+} */
+.wp-block-group.tg-slider-control {
+  position: unset;
+}

@@ -1,0 +1,68 @@
+.tg-dashboard {
+  background: #fff;
+  width: 98.5%;
+  padding: 30px;
+  box-sizing: border-box;
+  margin-top: 20px;
+}
+.tg-dashboard p {
+  font-size: 16px;
+}
+.tg-dashboard h1 {
+  font-size: 28px;
+  margin: 0 0 10px;
+  font-weight: 600;
+  line-height: 44px;
+}
+.tg-dashboard .tg-features-block {
+  width: 50%;
+  display: inline-block;
+}
+
+.tg-dashboard .tg-features-compare {
+  width: 100%;
+  display: flex;
+  gap: 30px;
+}
+.tg-dashboard .tg-features-compare ul li {
+  font-size: 16px;
+  margin-bottom: 10px;
+  line-height: 24px;
+  position: relative;
+  padding-left: 20px;
+}
+.version_label {
+  position: relative;
+  font-size: 16px;
+}
+.version_label:after {
+  position: absolute;
+  content: "";
+  width: 62px;
+  height: 2px;
+  left: 0;
+  bottom: -5px;
+  background-color: black;
+}
+.tg-dashboard .tg-features-compare ul li:before {
+  content: "";
+  width: 13px;
+  height: 14px;
+  background: url(../images/check_icon.png) center center no-repeat;
+  position: absolute;
+  left: 0;
+  top: 5px;
+  background-size: 100%;
+}
+.tg-upgrade-btn {
+  background: #3f57e1;
+  color: #fff;
+  padding: 8px 10px;
+  display: inline-block;
+  text-decoration: none;
+  margin-top: 10px;
+}
+.tg-upgrade-btn:hover {
+  background: #02b390;
+  color: #fff;
+}

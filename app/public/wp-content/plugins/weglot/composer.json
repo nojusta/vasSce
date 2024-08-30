@@ -1,0 +1,68 @@
+{
+    "name": "weglot/translate-wordpress",
+    "description": "Translate your WordPress website easily.",
+    "type": "project",
+    "license": "GPL-2.0-or-later",
+    "authors": [
+        {
+            "name": "Thomas DENEULIN",
+            "email": "thomas@weglot.com"
+        },
+        {
+            "name": "Remy BERDA",
+            "email": "remy@weglot.com"
+        },
+        {
+          "name": "Julien JACOB",
+          "email": "julien@weglot.com"
+      	},
+        {
+          "name": "Edson GALINA FORTES",
+          "email": "edson@weglot.com"
+      	}
+    ],
+    "require": {
+        "weglot/weglot-php": "^1.7.2",
+        "gmulti/morphism-php": "dev-dev-bugfix"
+    },
+	"repositories": [
+		{
+			"type": "vcs",
+			"url":  "git@github.com:weglot/weglot-php.git"
+		},
+		{
+			"type": "vcs",
+			"url":  "git@github.com:weglot/simple_html_dom.git"
+		},
+		{
+			"type": "vcs",
+			"url":  "git@github.com:glx77/morphism-php.git"
+		}
+	],
+    "require-dev": {
+        "squizlabs/php_codesniffer": "^3.2.2",
+        "wp-coding-standards/wpcs": "^2.3.0",
+        "phpunit/phpunit": "^4  || ^6",
+        "roave/security-advisories": "dev-master",
+        "phpseclib/phpseclib": "^2.0",
+        "dealerdirect/phpcodesniffer-composer-installer": "^0.7.1",
+		"automattic/vipwpcs": "^2.2",
+        "yoast/phpunit-polyfills": "^1.0",
+        "phpstan/phpstan": "^1.10",
+        "szepeviktor/phpstan-wordpress": "^1.3",
+        "phpstan/phpstan-deprecation-rules": "^1.1"
+    },
+    "scripts": {
+        "post-install-cmd": [
+            "\"vendor/bin/phpcs\" --config-set installed_paths vendor/wp-coding-standards/wpcs"
+        ],
+        "post-update-cmd": [
+            "\"vendor/bin/phpcs\" --config-set installed_paths vendor/wp-coding-standards/wpcs"
+        ]
+    },
+	"config": {
+		"allow-plugins": {
+			"dealerdirect/phpcodesniffer-composer-installer": true
+		}
+	}
+}

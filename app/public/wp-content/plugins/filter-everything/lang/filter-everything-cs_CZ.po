@@ -1,0 +1,2803 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Filter Everything PRO\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-02-23 21:45+0000\n"
+"PO-Revision-Date: 2024-05-15 19:05+0000\n"
+"Last-Translator: \n"
+"Language-Team: Czech\n"
+"Language: cs_CZ\n"
+"Plural-Forms: nplurals=3; plural=( n == 1 ) ? 0 : ( n >= 2 && n <= 4 ) ? 1 : "
+"2;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.9; wp-6.5.3\n"
+"X-Domain: filter-everything"
+
+msgid "%s #%s"
+msgstr "%s #%s"
+
+#: pro/Settings/Tabs/IndexingDepth.php:42 pro/Settings/Tabs/SeoRulesTab.php:118
+#, php-format
+msgid "%s ( <span class=\"wpc-settings-post-type-label\">%s</span> )"
+msgstr "%s ( <span class=\"wpc-settings-post-type-label\">%s</span> )"
+
+#: pro/PluginPro.php:306
+#, php-format
+msgid "%s archive for:"
+msgstr "%s archiv pro:"
+
+#: src/Admin/FilterSet.php:136
+#, php-format
+#| msgid "%s filter set moved to the Trash."
+#| msgid_plural "%s filter sets moved to the Trash."
+msgid "%s filter set has been moved to the Trash."
+msgid_plural "%s filter sets have been moved to the Trash."
+msgstr[0] "%s sada filtrů přesunuta do koše."
+msgstr[1] "%s sady filtrů přesunuty do koše."
+msgstr[2] "%s sady filtrů přesunuty do koše."
+
+#: src/Admin/FilterSet.php:134
+#, php-format
+#| msgid "%s filter set permanently deleted."
+#| msgid_plural "%s filter sets permanently deleted."
+msgid "%s filter set has been permanently deleted."
+msgid_plural "%s filter sets have been permanently deleted."
+msgstr[0] "%s sada filtrů trvale odstraněna."
+msgstr[1] "%s sady filtrů trvale odstraněny."
+msgstr[2] "%s sady filtrů trvale odstraněny."
+
+#: src/Admin/FilterSet.php:138
+#, php-format
+#| msgid "%s filter set restored from the Trash."
+#| msgid_plural "%s filter sets restored from the Trash."
+msgid "%s filter set has been restored from the Trash."
+msgid_plural "%s filter sets have been restored from the Trash."
+msgstr[0] "%s sada filtrů obnovena z koše."
+msgstr[1] "%s sad filtrů obnovených z koše."
+msgstr[2] "%s sad filtrů obnovených z koše."
+
+#: src/Admin/FilterSet.php:129
+#, php-format
+msgid "%s filter set has been updated."
+msgid_plural "%s filter sets have been updated."
+msgstr[0] "%s sada filtrů aktualizována."
+msgstr[1] "%s sady filtrů aktualizovány."
+msgstr[2] "%s sady filtrů aktualizovány."
+
+#: src/Admin/FilterSet.php:132
+#, php-format
+msgid "%s filter set has not been updated. Someone is editing it."
+msgid_plural "%s filter sets have not been updated. Someone is editing them."
+msgstr[0] "%s sada filtrů není aktualizována, někdo ji upravuje."
+msgstr[1] "%s sady filtrů nejsou aktualizovány, někdo je upravuje."
+msgstr[2] "%s sady filtrů nejsou aktualizovány, někdo je upravuje."
+
+#: src/Settings/Tabs/PermalinksTab.php:83
+#, php-format
+msgid "%s prefix"
+msgstr "předpona %s"
+
+#: pro/Admin/SeoRules.php:138
+#, php-format
+#| msgid "%s SEO rule moved to the Trash."
+#| msgid_plural "%s SEO rules moved to the Trash."
+msgid "%s SEO rule has been moved to the Trash."
+msgid_plural "%s SEO rules have been moved to the Trash."
+msgstr[0] "%s SEO pravidlo přesunuto do koše."
+msgstr[1] "%s Pravidla SEO přesunuta do koše."
+msgstr[2] "%s Pravidla SEO přesunuta do koše."
+
+#: pro/Admin/SeoRules.php:136
+#, php-format
+#| msgid "%s SEO rule permanently deleted."
+#| msgid_plural "%s SEO rules permanently deleted."
+msgid "%s SEO rule has been permanently deleted."
+msgid_plural "%s SEO rules have been permanently deleted."
+msgstr[0] "%s SEO pravidlo trvale odstraněno."
+msgstr[1] "%s Pravidla SEO trvale odstraněna."
+msgstr[2] "%s Pravidla SEO trvale odstraněna."
+
+#: pro/Admin/SeoRules.php:140
+#, php-format
+#| msgid "%s SEO rule restored from the Trash."
+#| msgid_plural "%s SEO rules restored from the Trash."
+msgid "%s SEO rule has been restored from the Trash."
+msgid_plural "%s SEO rules have been restored from the Trash."
+msgstr[0] "%s SEO pravidlo obnoveno z koše."
+msgstr[1] "%s Pravidla SEO obnovena z koše."
+msgstr[2] "%s Pravidla SEO obnovena z koše."
+
+#: pro/Admin/SeoRules.php:131
+#, php-format
+msgid "%s SEO rule has been updated."
+msgid_plural "%s SEO rules have been updated."
+msgstr[0] "%s SEO pravidlo aktualizováno."
+msgstr[1] "%s Pravidla SEO aktualizována."
+msgstr[2] "%s Pravidla SEO aktualizována."
+
+#: pro/Admin/SeoRules.php:134
+#, php-format
+msgid "%s SEO rule has not been updated. Someone is editing it."
+msgid_plural "%s SEO rules have not been updated. Someone is editing them."
+msgstr[0] "%s Pravidlo SEO není aktualizováno, někdo ho upravuje."
+msgstr[1] "%s Pravidla SEO nejsou aktualizována, někdo je upravuje."
+msgstr[2] "%s Pravidla SEO nejsou aktualizována, někdo je upravuje."
+
+#: views/frontend/range.php:53
+#, php-format
+msgid "%s: %d &mdash; %d"
+msgstr "%s: %d &mdash; %d"
+
+msgid "+ Add sorting option"
+msgstr "+ Přidat možnost třídění"
+
+msgid "- Select %s -"
+msgstr "- Vyberte %s -"
+
+#: src/Admin/FilterSet.php:130
+msgid "1 The filter set has not been updated. Someone is editing it."
+msgstr "1 sada filtrů není aktualizována, někdo ji upravuje."
+
+#: pro/Admin/SeoRules.php:132
+msgid "1 The SEO rule has not been updated. Someone is editing it."
+msgstr "1 Pravidlo SEO není aktualizováno, někdo ho upravuje."
+
+#| msgid ""
+#| "<a href=\"%s\" target=\"_blank\">Documentation</a>. Common information "
+#| "how to work with the plugin can be found in our documentation."
+msgid ""
+"<a href=\"%s\" target=\"_blank\">Documentation</a>. Common information on "
+"how to work with the plugin can be found in our documentation."
+msgstr ""
+"<a href=\"%s\" target=\"_blank\">Dokumentace</a>. Běžné informace, jak s "
+"pluginem pracovat, najdete v naší dokumentaci."
+
+msgid ""
+"<a href=\"%s\" target=\"_blank\">Documentation</a>. Please, read our "
+"documentation."
+msgstr ""
+"<a href=\"%s\" target=\"_blank\">Dokumentace</a>. Přečtěte si prosím naši "
+"dokumentaci."
+
+msgid ""
+"<a href=\"%s\" target=\"_blank\">Support</a>. Create a technical support "
+"request if you are unable to resolve the issue yourself."
+msgstr ""
+"<a href=\"%s\" target=\"_blank\">Podpora</a>. Pokud nejste schopni problém "
+"vyřešit sami, vytvořte požadavek na technickou podporu."
+
+msgid "<a href=\"%s\">Edit</a> Filter Set"
+msgstr "<a href=\"%s\">Upravit</a> Sada filtrů"
+
+#| msgid ""
+#| "<tr><th>_wc_average_rating</th><td>filter by Product Average Rating. "
+#| "Optionally use <a href=\"%s\" target=\"_blank\" class=\"wpc-external-"
+#| "link\">Product Visibility</a> taxonomy instead</td></tr>"
+msgid ""
+"<li><code>_wc_average_rating</code> - filter by Product Average Rating. "
+"Optionally use <a href=\"%s\" target=\"_blank\" class=\"wpc-external-link\">"
+"Product Visibility</a> taxonomy instead</li>"
+msgstr ""
+"<li><code>_wc_average_rating</code> - filtrovat podle průměrného hodnocení "
+"produktu. Volitelně místo toho použijte <a href=\"%s\" target=\"_blank\" "
+"class=\"wpc-external-link\">Taxonomii Viditelnost produktu</a></li>"
+
+msgid "<span class=\"%s\">%d</span> %s found"
+msgid_plural "<span class=\"%s\">%d</span> %s found"
+msgstr[0] "<span class=\"%s\">%d</span> nalezeno %s"
+msgstr[1] "<span class=\"%s\">%d</span> nalezeno %s"
+msgstr[2] "<span class=\"%s\">%d</span> nalezeno %s"
+
+#: src/Admin/FilterFields.php:89
+#| msgid "A part of URL with which the filter section begins"
+msgid "A part of the URL with which the filter section begins"
+msgstr "Část adresy URL, kterou začíná část filtru"
+
+#: src/Admin/FilterFields.php:76 src/Admin/FilterFields.php:1093
+msgid "A thing by which posts will be filtered"
+msgstr "Věc, podle které budou příspěvky filtrovány"
+
+msgid "a-z, 0-9, \"_\" and \"-\" symbols supported only"
+msgstr "podporovány jsou pouze symboly a-z, 0-9, \"_\" a \"-\""
+
+msgid "About PRO"
+msgstr "O verzi PRO"
+
+msgid "ACF Fields"
+msgstr "Pole ACF"
+
+msgid "Activate License"
+msgstr "Aktivovat Licenci"
+
+#: views/admin/filters-set.php:55
+msgid "Add Filter"
+msgstr "Přidat filtr"
+
+#: src/PostTypes.php:21 src/PostTypes.php:22
+msgid "Add Filter Set"
+msgstr "Přidání sady filtrů"
+
+#: src/Admin/AdminHooks.php:26
+msgid "Add Filters"
+msgstr "Přidání filtrů"
+
+#: src/Admin/Admin.php:35 src/PostTypes.php:46
+msgid "Add New"
+msgstr "Přidat nový"
+
+#: src/PostTypes.php:47
+msgid "Add New Filter"
+msgstr "Přidat nový filtr"
+
+#: pro/PostTypes.php:20
+msgid "Add New SEO Rule"
+msgstr "Přidání nového pravidla SEO"
+
+#: pro/PostTypes.php:19
+msgid "Add SEO Rule"
+msgstr "Přidání pravidla SEO"
+
+msgid "Adds a search field that allows you to quickly find filter terms"
+msgstr ""
+"Přidá vyhledávací pole, které vám umožní rychle najít filtrované výrazy"
+
+msgid "After"
+msgstr "Po"
+
+#: src/Settings/Tabs/ExperimentalTab.php:26
+#: src/Settings/Tabs/SettingsTab.php:45
+msgid "AJAX"
+msgstr "AJAX"
+
+#: src/Settings/Tabs/SettingsTab.php:49
+msgid "AJAX for Filters"
+msgstr "AJAX pro filtry"
+
+#: src/Settings/Tabs/ExperimentalTab.php:30
+msgid "AJAX loading icon (on desktop only)"
+msgstr "Ikona načítání AJAX (pouze na počítači)"
+
+#: pro/PluginPro.php:289
+msgid "All archive pages for this Post Type"
+msgstr "Všechny archivní stránky tohoto typu příspěvku"
+
+#| msgid ""
+#| "Allows you to display Filters widget on a page different from the page "
+#| "with filtered Posts list"
+msgid ""
+"Allows you to display the Filters widget on a page different from the page "
+"with a filtered Posts list"
+msgstr ""
+"Umožňuje umístit widget Filtry na stránce odlišné od stránky s filtrovaným "
+"Seznamem příspěvků"
+
+msgid "Allows you to search by text among filtered posts"
+msgstr "Umožňuje vyhledávat podle textu mezi filtrovanými příspěvky"
+
+msgid "Alternative Location"
+msgstr "Alternativní umístění"
+
+msgid "Always hide"
+msgstr "Vždy se schovejte"
+
+#: src/Admin/FilterFields.php:1094
+#| msgid ""
+#| "An already selected value cannot be changed. But you always can delete "
+#| "the current one and create new filter if you need."
+msgid ""
+"An already selected value cannot be changed. But you can always delete the "
+"current one and create a new filter if you need."
+msgstr ""
+"Již vybranou hodnotu nelze změnit. Vždy však můžete aktuální filtr smazat a "
+"v případě potřeby vytvořit nový."
+
+#: src/Admin/FilterFields.php:1249
+#| msgid "An error occurred. Set fields were not saved, please try again."
+msgid "An error occurred. Filter Set fields were not saved, please try again."
+msgstr "Došlo k chybě. Nastavená pole nebyla uložena, zkuste to prosím znovu."
+
+#: pro/Admin/SeoRules.php:326 pro/PluginPro.php:344
+#: src/Admin/FilterFields.php:992 src/Admin/FilterFields.php:1027
+#| msgid "An error occured. Please, refresh the page and try again."
+msgid "An error occurred. Please, refresh the page and try again."
+msgstr "Došlo k chybě. Obnovte prosím stránku a zkuste to znovu."
+
+#: src/Admin/FilterFields.php:1250
+#| msgid "An error occurred. Rule fields were not saved, please try again."
+msgid "An error occurred. SEO Rule fields were not saved, please try again."
+msgstr "Došlo k chybě. Pole pravidla nebyla uložena, zkuste to prosím znovu."
+
+#: src/Admin/FilterFields.php:1198
+#| msgid "An error occurred. You do not have permissions to edit this."
+msgid "An error occurred. You do not have permission to edit this."
+msgstr "Došlo k chybě. Nemáte oprávnění k úpravám."
+
+msgid "AND"
+msgstr "A"
+
+msgid "And what to filter?"
+msgstr "A co filtrovat?"
+
+#. Author of the plugin
+msgid "Andrii Stepasiuk"
+msgstr "Andrii Stepasiuk"
+
+#: pro/Admin/SeoRules.php:461 pro/Admin/SeoRules.php:540
+#, php-format
+msgid "Any %s"
+msgstr "Jakékoli %s"
+
+#| msgid "Any %s (for common query across all %s pages)"
+msgid "Any %s (for a common query across all %s pages)"
+msgstr "Any %s (pro společný dotaz na všech stránkách %s)"
+
+msgid "Any %s page"
+msgstr "Any stránka %s"
+
+#| msgid "Any %s page (for common query across all %s pages)"
+msgid "Any %s page (for a common query across all %s pages)"
+msgstr "Any stránka %s (pro společný dotaz na všech stránkách %s)"
+
+#: pro/Admin/SeoRules.php:555
+msgid "Any Author"
+msgstr "Jakýkoli autor"
+
+msgid "Appearance"
+msgstr "Vzhled"
+
+#: pro/Admin/SeoRules.php:196
+msgid "Appears between <br />&#x3C;h1&#x3E; and &#x3C;/h1&#x3E;"
+msgstr "Objevuje se mezi <br />&#x3C;h1&#x3E; a &#x3C;/h1&#x3E;"
+
+#: pro/Admin/SeoRules.php:177
+msgid "Appears between <br />&#x3C;title&#x3E; and &#x3C;/title&#x3E;"
+msgstr "Objevuje se mezi <br />&#x3C;title&#x3E; a &#x3C;/title&#x3E;"
+
+#: pro/Admin/SeoRules.php:206
+#| msgid "Appears on the page(s) matches this Rule and is visible for visitors"
+msgid ""
+"Appears on the page(s) that matches this Rule and is visible to visitors"
+msgstr ""
+"Zobrazuje se na stránce (stránkách) odpovídající tomuto pravidlu a je "
+"viditelná pro návštěvníky"
+
+msgid "Apply"
+msgstr "Použít"
+
+msgid "Apply Button label"
+msgstr "Text tlačítka Použít"
+
+#: src/Admin/FilterSet.php:252
+#| msgid "Apply filtering if page is:"
+msgid "Apply filtering if the page is:"
+msgstr "Použít filtrování, pokud stránka je:"
+
+#: pro/Admin/SeoRules.php:559
+msgid "Author"
+msgstr "Autor"
+
+#: src/Settings/Tabs/ExperimentalTab.php:50
+#| msgid "Automatically Scroll to the top of posts grid"
+msgid "Automatically Scroll to the top of the posts grid"
+msgstr "Automatické posouvání na začátek mřížky příspěvků"
+
+msgid "Available in PRO"
+msgstr "K dispozici v PRO"
+
+#: pro/PluginPro.php:399
+msgid "Available on"
+msgstr "K dispozici na"
+
+msgid "Before"
+msgstr "Před"
+
+msgid "Blog page"
+msgstr "Stránka blogu"
+
+msgid "Buttons for opening widgets"
+msgstr "Tlačítka pro otevírání widgetů"
+
+msgid "by Backorders Status (Custom Field)"
+msgstr "podle stavu zpětných objednávek (vlastní pole)"
+
+msgid "By date: newest first"
+msgstr "Podle data: nejnovější jako první"
+
+msgid "By date: oldest first"
+msgstr "Podle data: nejstarší první"
+
+#: pro/Settings/Tabs/IndexingDepth.php:70
+#| msgid ""
+#| "By default all filtering results pages are closed from indexing.<br />"
+#| "These settings determines maximum number of filters (only filters, not "
+#| "archive page)<br /> will be indexed by Search Engines."
+msgid ""
+"By default, all filtering results pages are closed from indexing.<br />These "
+"settings determine a maximum number of filters (only filters, not archive "
+"page)<br /> will be indexed by Search Engines."
+msgstr ""
+"Ve výchozím nastavení jsou všechny stránky s výsledky filtrování uzavřeny "
+"před indexací.<br />Tato nastavení určují maximální počet filtrů (pouze "
+"filtrů, nikoliv stránek archivu)<br />, které budou indexovány vyhledávači."
+
+#| msgid ""
+#| "By default all terms is H1, SEO title and Description are displayed in "
+#| "lowercase. If you need to display them exactly as term names, specify "
+#| "them in this field."
+msgid ""
+"By default, all terms: H1, SEO title, and Description are displayed in "
+"lowercase. If you need to display them exactly as term names, specify them "
+"in this field."
+msgstr ""
+"Ve výchozím nastavení jsou všechny termíny H1, SEO název a Popis zobrazeny "
+"malými písmeny. Pokud je potřebujete zobrazit přesně jako názvy termínů, "
+"zadejte je do tohoto pole."
+
+msgid "by Downloadable Status (Custom Field)"
+msgstr "podle stavu ke stažení (vlastní pole)"
+
+msgid "By ID"
+msgstr "Podle ID"
+
+msgid "by product Height"
+msgstr "podle produktu Výška"
+
+msgid "by product Length"
+msgstr "podle produktu Délka"
+
+msgid "by Product Virtual status (Custom Field)"
+msgstr "podle virtuálního stavu produktu (vlastní pole)"
+
+msgid "by product Weight"
+msgstr "podle produktu Hmotnost"
+
+msgid "by product Width"
+msgstr "podle produktu Šířka"
+
+msgid ""
+"by Sale Price (Custom Field Numeric) or on Sale Status (Custom Field Exists)"
+msgstr ""
+"podle prodejní ceny (vlastní pole Num) nebo podle stavu prodeje (vlastní "
+"pole Existuje)"
+
+msgid "by Sales Count"
+msgstr "podle počtu prodejů"
+
+msgid "by Sold Individually status (Custom Field)"
+msgstr "podle stavu Prodáno jednotlivě (vlastní pole)"
+
+msgid "by Stock Quantity (Custom Field Numeric)"
+msgstr "podle skladového množství (vlastní pole Num)"
+
+msgid "By title: alphabetical"
+msgstr "Podle názvu: abecedně"
+
+msgid "By title: reverse"
+msgstr "Podle názvu: reverzní"
+
+#: src/Admin/Widgets/FiltersWidget.php:67 views/admin/filter-row.php:88
+msgid "Cancel"
+msgstr "Zrušit"
+
+msgid ""
+"Check this box if products have variations with this meta key or this "
+"attribute.<br />And don't check the box if they don't have.<br />Relevant "
+"for variable products only."
+msgstr ""
+"Zaškrtněte toto políčko, pokud produkty mají varianty s tímto meta klíčem "
+"nebo tímto atributem.<br />A pokud nemají, políčko nezaškrtávejte.<br />"
+"Významné pouze pro variabilní produkty."
+
+#: src/Admin/FilterFields.php:244
+msgid "Checkboxes"
+msgstr "Zaškrtávací políčka"
+
+msgid "Clean URLs and Permalinks"
+msgstr "Čisté adresy URL a trvalé odkazy"
+
+msgid "Clear search"
+msgstr "Přehledné vyhledávání"
+
+msgid "Click to select taxonomies"
+msgstr "Kliknutím vyberte taxonomie"
+
+#: views/admin/filter-row.php:77
+msgid "Close"
+msgstr "Zavřít"
+
+#: src/Settings/Tabs/SettingsTab.php:32
+msgid "Collapse Filters Widget on Mobile devices"
+msgstr "Sbalit filtry Widget na mobilních zařízeních"
+
+#: src/Settings/Tabs/SettingsTab.php:34
+#| msgid "Collapse widget and show the Filters opening button"
+msgid "Collapse the widget and show the Filters opening button"
+msgstr "Sbalení widgetu a zobrazení tlačítka pro otevření filtrů"
+
+msgid "Color"
+msgstr "Barva"
+
+msgid "Color swatches and Brand logos"
+msgstr "Vzorníky barev a loga značek"
+
+msgid "Color swatches for Filters"
+msgstr "Vzorník barev pro filtry"
+
+msgid "Columns"
+msgstr "Sloupce"
+
+#| msgid ""
+#| "Comma separated entities. E.g. \"pa_brand,product_cat,_stock_status\""
+msgid "Comma-separated entities. E.g. \"pa_brand,product_cat,_stock_status\""
+msgstr "Entity oddělené čárkou. Např. \"pa_brand,product_cat,_stock_status\""
+
+#: src/Settings/Tabs/SettingsTab.php:63
+msgid "Common"
+msgstr "Společné"
+
+msgid "Common WordPress pages"
+msgstr "Běžné stránky WordPress"
+
+msgid "Compatibility with Page builders"
+msgstr "Kompatibilita s jakýmkoli nástrojem pro tvorbu stránek"
+
+msgid "Contains the IDs of ACF fields that are related to the Custom Field"
+msgstr "Obsahuje ID polí ACF přidružených k Vlastnímu Poli tohoto filtru"
+
+msgid "Count, dynamic recount in terms"
+msgstr "Počítání, dynamický přepočet v termínech"
+
+msgid "Current<br />version"
+msgstr "Aktuální<br />verze"
+
+#: src/Settings/Tabs/ExperimentalTab.php:59
+msgid "Custom CSS"
+msgstr "Vlastní CSS"
+
+#: src/Entities/EntityManager.php:118
+msgid "Custom Field"
+msgstr "Vlastní pole"
+
+#: src/Entities/EntityManager.php:120
+msgid "Custom Field Exists"
+msgstr "Vlastní pole existuje"
+
+msgid "Custom Field Exists - Available in PRO"
+msgstr "Vlastní pole existuje - k dispozici v PRO"
+
+#: src/Entities/EntityManager.php:116
+msgid "Custom Field Filters"
+msgstr "Vlastní filtry polí"
+
+#: src/Entities/EntityManager.php:119
+msgid "Custom Field Numeric"
+msgstr "Vlastní pole Num"
+
+msgid "Custom URL prefixes for filters"
+msgstr "Vlastní předpony URL pro filtry"
+
+msgid "Custom:"
+msgstr "Zvyk:"
+
+#: src/Settings/Tabs/ExperimentalTab.php:55
+msgid "Customization"
+msgstr "Přizpůsobení"
+
+#: src/Settings/Tabs/ExperimentalTab.php:42
+msgid "Dark Overlay (on desktop only)"
+msgstr "Tmavé překrytí (pouze na ploše)"
+
+msgid "Date"
+msgstr "Datum"
+
+msgid "Date Format"
+msgstr "Formát data"
+
+msgctxt "Date Picker closeText"
+msgid "Filter"
+msgstr "Filtr"
+
+msgctxt "Date Picker currentText"
+msgid "Today"
+msgstr "Dnes"
+
+msgctxt "Date Picker nextText"
+msgid "Next"
+msgstr "Další"
+
+msgctxt "Date Picker prevText"
+msgid "Prev"
+msgstr "Předešlý"
+
+msgctxt "Date Picker weekHeader"
+msgid "Wk"
+msgstr "Týden"
+
+msgid "Date range"
+msgstr "Datum rozsah"
+
+msgid "Date Time"
+msgstr "Datum Čas"
+
+msgctxt "Date Time Picker amText"
+msgid "AM"
+msgstr "AM"
+
+msgctxt "Date Time Picker amTextShort"
+msgid "A"
+msgstr "A"
+
+msgctxt "Date Time Picker hourText"
+msgid "Hour"
+msgstr "Hodina"
+
+msgctxt "Date Time Picker minuteText"
+msgid "Minute"
+msgstr "Minuta"
+
+msgctxt "Date Time Picker pmText"
+msgid "PM"
+msgstr "PM"
+
+msgctxt "Date Time Picker pmTextShort"
+msgid "P"
+msgstr "P"
+
+msgctxt "Date Time Picker secondText"
+msgid "Second"
+msgstr "Sekunda"
+
+msgctxt "Date Time Picker selectText"
+msgid "Select"
+msgstr "Vyberte"
+
+msgctxt "Date Time Picker timeOnlyTitle"
+msgid "Choose Time"
+msgstr "Vyberte Čas"
+
+msgctxt "Date Time Picker timeText"
+msgid "Time"
+msgstr "Čas"
+
+msgctxt "Date Time Picker timezoneText"
+msgid "Time Zone"
+msgstr "Časové pásmo"
+
+msgid "Date Type"
+msgstr "Typ data"
+
+msgid "Deactivate License"
+msgstr "Deaktivovat Licenci"
+
+msgid ""
+"Debug messages are visible for logged in administrators only. You can "
+"disable them in Filters -> <a href=\"%s\">Settings</a> -> Debug mode."
+msgstr ""
+"Ladicí zprávy jsou viditelné pouze pro přihlášené správce. Můžete je vypnout "
+"v nabídce Filtry -> <a href=\"%s\">Nastavení</a> -> Režim ladění."
+
+msgid "Debug mode"
+msgstr "Režim ladění"
+
+msgid "Default (no sorting)"
+msgstr "Výchozí (bez třídění)"
+
+msgid "Default sorting"
+msgstr "Výchozí třídění"
+
+#: views/admin/filter-row.php:78
+msgid "Delete"
+msgstr "Odstranit"
+
+#: views/admin/filter-row.php:87
+msgid "Delete, I'm sure"
+msgstr "Smazat, jsem si jistý"
+
+#: src/Admin/FilterFields.php:165
+#| msgid ""
+#| "Determines how numeric value will be changed when you move slider controls"
+msgid ""
+"Determines how the numeric value will be changed when you move slider "
+"controls"
+msgstr "Určuje, jak se bude měnit číselná hodnota při pohybu posuvníků"
+
+#: src/Admin/FilterFields.php:106
+#| msgid ""
+#| "Determines how to select posts, when two or more terms of this filter "
+#| "selected"
+msgid ""
+"Determines how to select posts when two or more terms of this filter are "
+"selected"
+msgstr ""
+"Určuje, jak vybrat příspěvky, pokud jsou vybrány dva nebo více termínů "
+"tohoto filtru"
+
+#| msgid ""
+#| "Determines what exactly Posts list (WP_Query) on a page should be filtered"
+msgid ""
+"Determines what exactly the Posts list (WP_Query) on a page should be "
+"filtered"
+msgstr ""
+"Definuje, který Seznam příspěvků (WP_Query) na stránce mají být filtrovány"
+
+#: src/Admin/AdminHooks.php:64 src/Admin/AdminHooks.php:88
+msgid "Dismiss this notice."
+msgstr "Toto oznámení zamítněte."
+
+msgid ""
+"Display the term hierarchy in the filter widget. Child terms will be "
+"collapsed by default"
+msgstr ""
+"Zobrazení hierarchie termínů ve widgetu filtru. Dceřiné termíny budou ve "
+"výchozím nastavení sbalené"
+
+msgid "Displays a dropdown with sort options"
+msgstr "Zobrazí rozevírací seznam s možnostmi třídění"
+
+#: src/Admin/Widgets/FiltersWidget.php:13
+msgid "Displays filters"
+msgstr "Zobrazuje filtry"
+
+msgid "Displays selected terms"
+msgstr "Zobrazí vybrané pojmy"
+
+#: src/Admin/FilterSet.php:66
+#| msgid "Displays number of posts in a term"
+msgid "Displays the number of posts in a term"
+msgstr "Zobrazení počtu příspěvků v termínu"
+
+msgid ""
+"Do not display opening widgets buttons automatically. I will insert them "
+"myself via shortcodes."
+msgstr ""
+"Nezobrazovat automaticky tlačítka pro otevření widgetů. Vložím je sám "
+"prostřednictvím zkratek."
+
+#| msgid ""
+#| "Do not show this Filter until a parent selected. Useful for step by step "
+#| "filtering"
+msgid ""
+"Do not show this Filter until a parent is selected. Useful for step-by-step "
+"filtering"
+msgstr ""
+"Nezobrazovat tento filtr, dokud není vybrán rodič. Užitečné pro postupné "
+"filtrování"
+
+msgid "Dokan vendors"
+msgstr "Dokan prodejci"
+
+#: src/Admin/FilterFields.php:247
+msgid "Dropdown"
+msgstr "Rozbalovací nabídka"
+
+msgid "Dropdown Label"
+msgstr "Název rozevíracího seznamu"
+
+#: src/Settings/Tabs/PermalinksTab.php:180
+msgid "Duplicate prefixes. Prefixes should be unique."
+msgstr "Duplicitní předpony. Předpony by měly být jedinečné."
+
+msgid "e.g. #primary or .main-content"
+msgstr "např. #primary nebo .main-content"
+
+msgid "e.g. - Select color -"
+msgstr "např. - Vyberte barvu -"
+
+msgid "e.g. 2745, 324"
+msgstr "např. 2745, 324"
+
+msgid "e.g. From {value}"
+msgstr "např. Od {hodnota}"
+
+msgid "e.g. Search products, Search posts"
+msgstr "např. Hledat produkty, Hledat příspěvky"
+
+msgid "e.g. To {value}"
+msgstr "např. Do {hodnota}"
+
+#: src/PostTypes.php:48
+msgid "Edit Filter"
+msgstr "Upravit filtr"
+
+#: src/PostTypes.php:23
+msgid "Edit Filter Set"
+msgstr "Upravit sadu filtrů"
+
+#: pro/PostTypes.php:21
+msgid "Edit SEO Rule"
+msgstr "Upravit pravidlo SEO"
+
+msgid "Edit var names."
+msgstr "Úprava názvů var."
+
+#: src/Settings/Tabs/PermalinksTab.php:289
+msgid ""
+"Edit, drag filter prefixes, and arrange them in the order you need.<br />"
+"This order determines the order of the filters in the URL."
+msgstr ""
+"Upravte, přetáhněte předpony filtrů a seřaďte je podle potřeby.<br />Toto "
+"pořadí určuje pořadí filtrů v URL."
+
+#| msgid "Editing the order of URL prefixes is available in PRO version"
+msgid "Editing the order of URL prefixes is available in the PRO version"
+msgstr "Úprava pořadí předpon URL je k dispozici ve verzi PRO"
+
+#: src/Admin/FilterSet.php:51
+msgid "Empty Terms"
+msgstr "Prázdné termíny"
+
+msgid "Enable Color swatches"
+msgstr "Povolit vzorníky barev"
+
+msgid "Enable compatibility mode"
+msgstr "Povolení režimu kompatibility"
+
+msgid "Enable debugging messages to help to configure filters"
+msgstr "Povolení ladicích zpráv, které pomáhají konfigurovat filtry"
+
+#: src/Admin/FilterFields.php:156
+msgid "Enable Range Slider?"
+msgstr "Povolit posuvník rozsahu?"
+
+msgid "Enable styling"
+msgstr "Povolení stylování"
+
+#: pro/Admin/Admin.php:170
+#| msgid "Enable Pop-up Filters widget"
+msgid "Enable the Pop-up Filters widget"
+msgstr "Povolení widgetu Pop-up filtr"
+
+#| msgid "Enables filtering by click on the Apply button"
+msgid "Enables filtering by clicking the Apply button"
+msgstr "Povolí filtrování kliknutím na tlačítko Použít"
+
+#| msgid ""
+#| "Entities, whose terms should display in SEO data without force lowercasing"
+msgid ""
+"Entities whose terms should display in SEO data without forcing lowercasing"
+msgstr ""
+"Subjekty, jejichž výrazy by se měly v datech SEO zobrazovat bez vynuceného "
+"malého písmene"
+
+#: src/Admin/AdminHooks.php:154
+#, php-format
+msgid ""
+"Error: <strong>%s</strong> filter prefix is not allowed and must be changed "
+"on the Filter %s settings <a href=\"%s\" target=\"_blank\">page</a>. "
+"Otherwise this site will not work properly."
+msgid_plural ""
+"Error: following filter prefixes <strong>%s</strong> are not allowed and "
+"must be changed on the Filter %s settings <a href=\"%s\" target=\"_blank\">"
+"page</a>. Otherwise this site will not work properly."
+msgstr[0] ""
+"Chyba: předpona filtru <strong>%s</strong> není povolena a musí být změněna "
+"v nastavení filtru %s <a href=\"%s\" target=\"_blank\">stránka</a>. Jinak "
+"tato stránka nebude fungovat správně."
+msgstr[1] ""
+"Chyba: následující předpony filtru <strong>%s</strong> nejsou povoleny a je "
+"třeba je změnit na <a href=\"%s\" target=\"_blank\">stránce</a> nastavení "
+"filtru %s. Jinak tato stránka nebude fungovat správně."
+msgstr[2] ""
+"Chyba: následující předpony filtru <strong>%s</strong> nejsou povoleny a je "
+"třeba je změnit na <a href=\"%s\" target=\"_blank\">stránce</a> nastavení "
+"filtru %s. Jinak tato stránka nebude fungovat správně."
+
+#: src/Admin/FilterFields.php:1278
+msgid "Error: all SEO data fields could not be empty."
+msgstr "Chyba: všechna datová pole SEO nemohla být prázdná."
+
+#: src/Admin/FilterFields.php:1261
+msgid "Error: filter prefix is already used for another entity."
+msgstr "Chyba: předpona filtru je již použita pro jinou entitu."
+
+#: src/Admin/FilterFields.php:1262
+#| msgid "Error: filter prefix should has at least one alphabetic symbol."
+msgid "Error: filter prefix should have at least one alphabetic symbol."
+msgstr "Chyba: prefix filtru by měl obsahovat alespoň jeden abecední symbol."
+
+#: src/Admin/FilterFields.php:1263
+msgid "Error: filter prefix should not be empty."
+msgstr "Chyba: prefix filtru by neměl být prázdný."
+
+#: src/Admin/FilterFields.php:1272
+msgid "Error: for filter Post Author logic OR is acceptable only."
+msgstr "Chyba: pro filtr Autor příspěvku je přípustná pouze logika OR."
+
+msgid "Error: Invalid date format."
+msgstr "Chyba: Nesprávný formát data."
+
+msgid "Error: Invalid date or time format."
+msgstr "Chyba: Nesprávný formát data nebo času."
+
+msgid "Error: invalid Date Type parameter."
+msgstr "Chyba: neplatný parametr Typ dat."
+
+#: src/Admin/FilterFields.php:1271
+msgid "Error: invalid exclude terms"
+msgstr "Chyba: neplatné vylučovací podmínky"
+
+#: src/Admin/FilterFields.php:1257
+msgid "Error: invalid fields present."
+msgstr "Chyba: přítomna neplatná pole."
+
+#: src/Admin/FilterFields.php:1260
+msgid "Error: invalid filter entity."
+msgstr "Chyba: neplatná entita filtru."
+
+#: src/Admin/FilterFields.php:1258
+msgid "Error: invalid filter ID."
+msgstr "Chyba: neplatné ID filtru."
+
+#: src/Admin/FilterFields.php:1253
+msgid "Error: invalid Hide empty field."
+msgstr "Chyba: neplatné Skrýt prázdné pole."
+
+#: src/Admin/FilterFields.php:1271
+msgid "Error: invalid include checkbox value"
+msgstr "Chyba: neplatná hodnota zaškrtávacího políčka zahrnout"
+
+#: src/Admin/FilterFields.php:1269
+msgid "Error: invalid Logic parameter"
+msgstr "Chyba: neplatný parametr logiky"
+
+#: src/Admin/FilterFields.php:1266
+msgid "Error: invalid Meta key value"
+msgstr "Chyba: neplatná hodnota klíče Meta"
+
+#: src/Admin/FilterFields.php:1279
+msgid "Error: invalid or forbidden filter presents."
+msgstr "Chyba: Představuje neplatný nebo zakázaný filtr."
+
+#: src/Admin/FilterFields.php:1251
+msgid "Error: invalid post type."
+msgstr "Chyba: neplatný typ příspěvku."
+
+msgid "Error: invalid query."
+msgstr "Chyba: neplatný dotaz."
+
+#: src/Admin/FilterFields.php:1280
+msgid "Error: invalid SEO Rule ID."
+msgstr "Chyba: neplatné ID pravidla SEO."
+
+#: src/Admin/FilterFields.php:1259
+msgid "Error: invalid set ID."
+msgstr "Chyba: neplatné ID sady."
+
+#: src/Admin/FilterFields.php:1254
+msgid "Error: invalid Show count field."
+msgstr "Chyba: neplatné pole Show count."
+
+#: src/Admin/FilterFields.php:1270
+#| msgid "Error: invalid Orderby parameter"
+msgid "Error: invalid the Sort Terms by parameter"
+msgstr "Chyba: neplatný parametr Orderby"
+
+msgid "Error: Invalid time format."
+msgstr "Chyba: Nesprávný formát času."
+
+#: src/Admin/FilterFields.php:1252
+msgid "Error: invalid value of the Where to filter? field."
+msgstr "Chyba: neplatná hodnota pole Kde filtrovat?."
+
+#: src/Admin/FilterFields.php:1268
+msgid "Error: invalid View parameter."
+msgstr "Chyba: neplatný parametr View."
+
+msgid "Error: invalid WP Page type."
+msgstr "Chyba: neplatný typ stránky."
+
+msgid "Error: invalid «Apply Button» mode field."
+msgstr "Chyba: neplatné pole režimu tlačítka \"Použít\"."
+
+#: src/Admin/FilterFields.php:1273
+#| msgid "Error: numeric filter can not be in URL path."
+msgid "Error: numeric filter can not be in the URL path."
+msgstr "Chyba: číselný filtr nemůže být v cestě URL."
+
+#: src/Admin/FilterFields.php:1274
+msgid "Error: only AND logic is supported for numeric filters."
+msgstr "Chyba: pro číselné filtry je podporována pouze logika AND."
+
+#: src/Admin/FilterFields.php:1264
+msgid ""
+"Error: prefix part before \"-\" character can not be equal to another "
+"existing prefix."
+msgstr ""
+"Chyba: část prefixu před znakem \"-\" se nemůže rovnat jinému existujícímu "
+"prefixu."
+
+#: src/Admin/FilterFields.php:1275
+msgid "Error: Range slider is acceptable for Post Meta Num filters only."
+msgstr "Chyba: Posuvník rozsahu je přijatelný pouze pro filtry Post Meta Num."
+
+#: src/Admin/FilterFields.php:1277
+msgid "Error: SEO Rule must contain at least one filter."
+msgstr "Chyba: Pravidlo SEO musí obsahovat alespoň jeden filtr."
+
+#: src/Admin/FilterFields.php:1276
+msgid "Error: SEO Rule must have specified Post Type."
+msgstr "Chyba: Pravidlo SEO musí mít zadaný typ příspěvku."
+
+msgid "Error: SEO rule with selected Filters Combination already exists."
+msgstr "Chyba: pravidlo SEO s vybranou kombinací filtrů již existuje."
+
+#: src/Admin/FilterFields.php:1265
+#| msgid ""
+#| "Error: this prefix is not allowed because it matches a taxonomy or term "
+#| "name already in use on your site. Please use a different prefix."
+msgid ""
+"Error: this prefix is not allowed because it matches a taxonomy or term name "
+"already used on your site. Please use a different prefix."
+msgstr ""
+"Chyba: tato předpona není povolena, protože se shoduje s názvem taxonomie "
+"nebo termínu, který se již na vašem webu používá. Použijte prosím jiný "
+"prefix."
+
+#: src/Admin/FilterFields.php:1256
+msgid ""
+"Error: two or more filters with equal Filter By and Meta key values are "
+"forbidden in the same Set. Please, remove or change equal filters."
+msgstr ""
+"Chyba: ve stejné sadě jsou zakázány dva nebo více filtrů se stejnými "
+"hodnotami klíčů Filter By a Meta. Odstraňte nebo změňte stejné filtry."
+
+#| msgid ""
+#| "Error: var name is not allowed because it matches a taxonomy or term name "
+#| "already in use on your site."
+msgid ""
+"Error: var name is not allowed because it matches a taxonomy or term name "
+"already used on your site."
+msgstr ""
+"Chyba: název var není povolen, protože se shoduje s názvem taxonomie nebo "
+"termínu, který se již na vašem webu používá."
+
+#| msgid ""
+#| "Error: you can not update settings because Filter Everything Pro plugin "
+#| "is locked. Please, ask your site Superadmin enter plugin license key to "
+#| "unlock it."
+msgid ""
+"Error: you can not update settings because the Filter Everything Pro plugin "
+"is locked. Please, ask your site Superadmin to enter the plugin license key "
+"to unlock it."
+msgstr ""
+"Chyba: Nastavení nelze aktualizovat, protože plugin Filter Everything Pro je "
+"uzamčen. Požádejte prosím svého správce webu o vstoupit licenčního klíče "
+"pluginu, abyste jej odemkli."
+
+#| msgid ""
+#| "Error: you can not update settings because Filter Everything Pro plugin "
+#| "is locked. Please, enter your <a href=\"%1$s\" target=\"_blank\">license "
+#| "key</a> to unlock it."
+msgid ""
+"Error: you can not update settings because the Filter Everything Pro plugin "
+"is locked. Please, enter your <a href=\"%1$s\" target=\"_blank\">license "
+"key</a> to unlock it."
+msgstr ""
+"Chyba: Nastavení nelze aktualizovat, protože plugin Filter Everything Pro je "
+"uzamčen. Chcete-li jej odemknout, zadejte svůj <a href=\"%1$s\" "
+"target=\"_blank\">licenční klíč</a>."
+
+#: src/Admin/FilterFields.php:1267
+msgid "Error: you must enter Meta Key"
+msgstr "Chyba: musíte zadat Meta Key"
+
+#| msgid ""
+#| "Every Posts list like \"Popular products\" or \"Recent posts\" on a page "
+#| "is related with some WP_Query. This field allows you to set desired Posts "
+#| "list by choosing its WP_Query.<br /><br />If the filtering process does "
+#| "not change Posts you need, it means you selected the wrong WP_Query. "
+#| "Please, try to experiment with different ones, until it starts to filter."
+msgid ""
+"Every Posts list, like \"Popular products\" or \"Recent posts\" on a page, "
+"is related to some WP_Query. This field allows you to set desired Posts list "
+"by choosing its WP_Query.<br /><br />If the filtering process does not "
+"change the Posts you need, it means you selected the wrong WP_Query. Please, "
+"try to experiment with different ones until it starts to filter."
+msgstr ""
+"Každý Seznam příspěvků jako „Populární produkty“ nebo „Poslední příspěvky“ "
+"na stránce souvisí s nějakým WP_Query. Toto pole vám umožňuje nastavit "
+"požadovaný Seznam příspěvků výběrem jeho WP_Query.<br /><br />Pokud proces "
+"filtrování nezmění příspěvky, které potřebujete, znamená to, že jste vybrali "
+"nesprávný WP_Query. Zkuste prosím experimentovat s různými, dokud nezačne "
+"filtrovat."
+
+#| msgid "Everything is fine, you have activated license."
+msgid "Everything is fine, you have activated your license."
+msgstr "Vše je v pořádku, máte aktivovanou licenci."
+
+msgid "exclude"
+msgstr "vyloučit"
+
+#: src/Settings/Tabs/ExperimentalTab.php:72
+msgid "Experimental"
+msgstr "Experimentální"
+
+#: src/PostTypes.php:45
+msgid "Filter"
+msgstr "Filtr"
+
+#: src/Admin/FilterFields.php:72 src/Admin/FilterFields.php:1086
+#: views/admin/filters-set.php:31
+msgid "Filter by"
+msgstr "Filtrovat podle"
+
+msgid "filter by Featured Image (Custom Field Exists)"
+msgstr "filtrovat podle doporučeného obrázku (vlastní pole existuje)"
+
+msgid "filter by Product price (Custom Field Numeric)"
+msgstr "filtrovat podle ceny produktu (Vlastní pole Num)"
+
+msgid "filter by Product Stock status (Custom Field)"
+msgstr "filtrovat podle stavu zásob produktu (vlastní pole)"
+
+#: src/Settings/Tabs/SettingsTab.php:73
+msgid "Filter Container max height, px"
+msgstr "Maximální výška kontejneru filtru, px"
+
+#: src/Admin/Widgets/FiltersWidget.php:12
+msgid "Filter Everything"
+msgstr "Filtrovat vše"
+
+msgid "Filter Everything &mdash; Chips"
+msgstr "Filtrovat vše &mdash; Štítky"
+
+msgid "Filter Everything &mdash; Filters"
+msgstr "Filtrovat vše &mdash; Filtry"
+
+msgid "Filter Everything &mdash; Sorting"
+msgstr "Filtrovat vše &mdash; Třídění"
+
+msgid "Filter Everything debug"
+msgstr "Filtr Vše ladit"
+
+#: pro/SeoFrontend.php:527
+msgid "Filter Everything plugin"
+msgstr "Zásuvný modul Filtrovat vše"
+
+#| msgid ""
+#| "Filter Everything plugin is also available in a professional version<br />"
+#| " which includes additional features such as clean URLs, ability to "
+#| "customize SEO,<br /> individual Filter Sets for pages and other great "
+#| "features."
+msgid ""
+"Filter Everything plugin is also available in a professional version<br /> "
+"which includes additional features such as clean URLs, the ability to "
+"customize SEO,<br /> individual Filter Sets for pages, and other great "
+"features."
+msgstr ""
+"Plugin Filter Everything je k dispozici také v profesionální verzi,<br /> "
+"která obsahuje další funkce, jako jsou čisté adresy URL, možnost "
+"přizpůsobení SEO,<br /> individuální sady filtrů pro stránky a další skvělé "
+"funkce."
+
+#. Name of the plugin
+msgid "Filter Everything PRO"
+msgstr "Filtrovat vše PRO"
+
+#| msgid ""
+#| "Filter Everything — WordPress & WooCommerce product filter plugin, that "
+#| "allows you to design flexible filtering system."
+msgid ""
+"Filter Everything — WordPress & WooCommerce product filter plugin that "
+"allows you to design a flexible filtering system."
+msgstr ""
+"Filter Everything - plugin pro filtrování produktů WordPress & WooCommerce, "
+"který umožňuje navrhnout flexibilní systém filtrování."
+
+msgid "Filter Everything&nbsp;— WooCoomerce Product & WordPress Filter"
+msgstr "Filter Everything&nbsp;— filtr pro WordPress a WooCommerce"
+
+#: src/Admin/FilterFields.php:102
+msgid "Filter Logic"
+msgstr "Filtr Logic"
+
+#: src/Admin/FilterFields.php:90
+#| msgid ""
+#| "Filter Prefix is something like Wordpress slug.<br />For example in URL "
+#| "path: <br />/color-red-or-blue/size-large/<br /> «color» and «size» are "
+#| "filter prefixes.<br />You can not edit already defined filter prefix here,"
+#| " but you can edit it globally in the Plugin Settings."
+msgid ""
+"Filter Prefix is something like a WordPress slug.<br />For example, in URL "
+"path: <br />/color-red-or-blue/size-large/<br /> «color» and «size» are "
+"filter prefixes.<br />You can not edit the already defined filter prefix "
+"here, but you can edit it globally in the Plugin Settings."
+msgstr ""
+"Předpona filtru je něco jako Wordpress slug.<br />Například v cestě URL: <br "
+"/>/barva-červená-nebo-modrá/velikost-velká/<br /> \"barva\" a \"velikost\" "
+"jsou předpony filtru.<br /> Zde nemůžete upravovat již definovanou předponu "
+"filtru, ale můžete ji upravit globálně v nastavení pluginu."
+
+#: src/PostTypes.php:20
+#| msgid "Filters Set"
+msgid "Filter Set"
+msgstr "Sada filtrů"
+
+msgid ""
+"Filter Set with a higher value will be shown first on a page with several "
+"Filter Sets"
+msgstr ""
+"Sada filtrů s vyšší hodnotou se na stránce s několika sadami filtrů zobrazí "
+"jako první"
+
+#: src/Admin/Admin.php:34 src/PostTypes.php:17 src/PostTypes.php:19
+msgid "Filter Sets"
+msgstr "Sady filtrů"
+
+#: src/PostTypes.php:27
+msgid "Filter Sets are Filters grouped together. Create your first Filter Set."
+msgstr ""
+"Sady filtrů jsou filtry seskupené dohromady. Vytvořte první sadu filtrů."
+
+#: src/Admin/FilterFields.php:65
+msgid "Filter Title"
+msgstr "Název filtru"
+
+#: views/frontend/filters-button.php:5
+#, php-format
+msgid "Filtered %s"
+msgstr "Nalezeno %s"
+
+msgid "Filtering by Taxonomies, Custom Fields, Post Author"
+msgstr "Filtrování podle taxonomií, vlastních polí, autora příspěvku"
+
+msgid "Filtering Custom WP Queries"
+msgstr "Filtrování vlastních dotazů WP"
+
+#| msgid ""
+#| "Filtering results will always be on the page with filtered posts. But you "
+#| "can place Filters widget itself on the page(s) specified in the dropdowns"
+msgid ""
+"Filtering results will always be on the page with filtered posts. But you "
+"can place the Filters widget on the page(s) specified in the dropdowns"
+msgstr ""
+"Výsledky filtrování budou vždy na stránce s filtrovanými příspěvky. Samotný "
+"widget Filtry však můžete umístit na stránky zadané v rozevíracích oknech"
+
+#: src/Admin/Admin.php:32 src/Admin/MetaBoxes.php:18 src/PostTypes.php:44
+#: views/frontend/filters-button.php:7
+msgid "Filters"
+msgstr "Filtry"
+
+#| msgid "Filters any Post Type (posts, products etc)"
+msgid "Filters any Post Type (posts, products, etc.)"
+msgstr "Filtry libovolného typu příspěvku (příspěvky, produkty atd.)"
+
+#: views/admin/filters-seo-rules.php:33
+msgid "Filters Combination"
+msgstr "Kombinace filtrů"
+
+#| msgid ""
+#| "Filters everything in WordPress & WooCommerce: Products, any Post types, "
+#| "by Any Criteria. Compatible with WPML, ACF and others popular. Supports "
+#| "AJAX."
+msgid ""
+"Filters everything in WordPress & WooCommerce: Products, Post types, by Any "
+"Criteria. Compatible with WPML, ACF, and other popular plugins. Supports "
+"AJAX."
+msgstr ""
+"Filtruje vše ve WordPressu a WooCommerce: produkty, všechny typy příspěvků "
+"podle jakýchkoli kritérií. Kompatibilní s WPML, ACF a dalšími populární. "
+"Podporuje AJAX."
+
+#: views/admin/options.php:12
+msgid "Filters Settings"
+msgstr "Nastavení filtrů"
+
+#. Description of the plugin
+#| msgid "Filters Wordpress things."
+msgid "Filters WordPress things."
+msgstr "Filtry Wordpress věci."
+
+#: src/Admin/FilterFields.php:134
+msgid "Folding"
+msgstr "Sbalitelný"
+
+msgid ""
+"For example, \"Price from <span class=\"wpc-variable-inserter\" data-"
+"field=\"%s\" title=\"Click to insert the variable\">{value}</span> $\" will "
+"be displayed as \"Price from 150 $\""
+msgstr ""
+"Například \"Cena od <span class=\"wpc-variable-inserter\" data-field=\"%s\" "
+"title=\"Kliknutím vložíte proměnnou\">{value}</span> $\" se zobrazí jako "
+"\"Cena od 150 $\""
+
+#: pro/Settings/Tabs/IndexingDepth.php:71
+#| msgid ""
+#| "For example for Post Type Products Indexing depth is 2. It means the page "
+#| "with URL path:<br />/color-blue/size-large/<br />will be indexed.<br />"
+#| "But the page with URL path:<br />/color-blue/size-large/shape-round/<br />"
+#| "will NOT be indexed, because it contains more than 2 filters."
+msgid ""
+"For example, for Post Type Products Indexing depth is 2. It means the page "
+"with URL path:<br />/color-blue/size-large/<br />will be indexed.<br />But "
+"the page with URL path:<br />/color-blue/size-large/shape-round/<br />will "
+"NOT be indexed because it contains more than 2 filters."
+msgstr ""
+"Například pro typ příspěvku Produkty je hloubka indexace 2. To znamená, že "
+"stránka s cestou URL:<br />/color-blue/size-large/<br />bude indexována.<br "
+"/>Ale stránka s cestou URL:<br />/color-blue/size-large/shape-round/<br />"
+"nebude indexována, protože obsahuje více než 2 filtry."
+
+#| msgid ""
+#| "For example, in the URL path:<br />/?color=blue&size=large<br />\"color\" "
+#| "and \"size\" are the names of the URL vars.<br />In PRO version of the "
+#| "plugin the URL part after \"?\" becomes <br />/color-blue/size-large/"
+msgid ""
+"For example, in the URL path:<br />/?color=blue&size=large<br />\"color\" "
+"and \"size\" are the names of the URL vars.<br />In the PRO version of the "
+"plugin, the URL part after \"?\" becomes <br />/color-blue/size-large/"
+msgstr ""
+"Například v cestě URL:<br />/?color=blue&size=large<br />\"color\" a "
+"\"size\" jsou názvy proměnných URL.<br />V PRO verzi pluginu je část URL za "
+"\"?\" <br />/color-blue/size-large/"
+
+#: views/admin/filters-seo-rules.php:36
+#| msgid ""
+#| "For example you need to set SEO data for the page with URL path:<br />"
+#| "/color-blue/size-large/<br />For this purpose you have to select filters "
+#| "«Color» and «Size» only.<br />If you want to create common template for "
+#| "all color and size values, please chose<br />«Any Color» and «Any Size». "
+#| "If you need to set SEO data for specific Color and Size, please chose "
+#| "specific values like «Blue» and «Large»."
+msgid ""
+"For example, you need to set SEO data for the page with URL path:<br />"
+"/color-blue/size-large/<br />For this purpose, you have to select filters "
+"«Color» and «Size» only.<br />If you want to create a common template for "
+"all color and size values, please choose <br />«Any Color» and «Any Size». "
+"If you need to set SEO data for specific Color and Size, please choose "
+"specific values like «Blue» and «Large»."
+msgstr ""
+"Například potřebujete nastavit SEO data pro stránku s cestou URL:<br />"
+"/barva-modrá/velikost-velká/<br />Pro tento účel musíte vybrat pouze filtry "
+"\"Barva\" a \"Velikost\".<br />Pokud chcete vytvořit společnou šablonu pro "
+"všechny hodnoty barev a velikostí, vyberte<br />\"Jakákoli barva\" a "
+"\"Jakákoli velikost\". Pokud potřebujete nastavit SEO data pro konkrétní "
+"Barvu a Velikost, zvolte prosím konkrétní hodnoty, například \"Modrá\" a "
+"\"Velká\"."
+
+#: src/Settings/Tabs/SettingsTab.php:94
+msgid "General"
+msgstr "Obecné"
+
+msgid "Get PRO"
+msgstr "Získat PRO"
+
+msgid "Get your License Key"
+msgstr "Získejte svůj Licenční Klíč"
+
+#: src/Settings/Tabs/PermalinksTab.php:56
+msgid "Global filter prefixes and order"
+msgstr "Předpony a pořadí globálního filtru"
+
+#: src/Settings/Tabs/PermalinksTab.php:49
+msgid "Global URL Var Names"
+msgstr "Globální názvy proměnných URL"
+
+#: pro/Admin/SeoRules.php:190
+msgid "H1 Title"
+msgstr "H1 Název"
+
+msgid "Help & Support"
+msgstr "Nápověda a podpora"
+
+#: pro/PluginPro.php:263
+msgid "Hide empty Filters"
+msgstr "Skrýt prázdné filtry"
+
+msgid "Hide filter if all terms are empty"
+msgstr "Skrýt filtr, pokud jsou všechny výrazy prázdné"
+
+msgid "Hide in the initial Filter only"
+msgstr "Skrýt pouze v úvodním filtru"
+
+msgid "Hide opening widget buttons"
+msgstr "Skrytí otevíracích tlačítek widgetu"
+
+msgid "Hide out of stock items from filtering results"
+msgstr "Skrýt položky, které nejsou skladem, z výsledků filtrování"
+
+#: pro/PluginPro.php:268
+#| msgid "Hide entire Filter if no one term contains posts"
+msgid "Hide the Entire Filter if no one term contains posts"
+msgstr "Skrýt celý filtr, pokud žádný termín neobsahuje příspěvky"
+
+msgid "Hide this tab forever"
+msgstr "Skrýt tuto kartu navždy"
+
+#| msgid "Hide until Parent selected"
+msgid "Hide until the Parent selected"
+msgstr "Skrýt, dokud není vybrán rodič"
+
+msgid "Hide Woocommerce default sorting dropdown"
+msgstr "Skrytí výchozího rozbalovacího seznamu pro třídění Woocommerce"
+
+msgid "Horizontal layout"
+msgstr "Horizontální rozložení"
+
+msgid "How the date will be displayed in the Filters widget"
+msgstr "Jak bude datum zobrazeno ve widgetu Filtry"
+
+#: src/Settings/Tabs/SettingsTab.php:55
+msgid "HTML id or class of the Posts Container"
+msgstr "HTML id nebo třída kontejneru příspěvků"
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://filtereverything.pro/about/"
+msgstr "https://filtereverything.pro/about/"
+
+msgid "I have an issue with the plugin"
+msgstr "Mám problém s pluginem"
+
+msgid "I'm Andrii Stepasiuk, the author of this plugin."
+msgstr "Jmenuji se Andrii Stepasyuk a jsem autorem tohoto pluginu."
+
+msgid ""
+"If checked, filtering will take into account variations with this attribute "
+"or meta key"
+msgstr ""
+"Pokud je zaškrtnuto, budou při filtrování zohledněny varianty s tímto "
+"atributem nebo meta klíčem"
+
+#: src/Admin/FilterFields.php:159
+msgid "If disabled, visitors must type numeric values in text inputs"
+msgstr ""
+"Pokud je zakázáno, musí návštěvníci zadávat číselné hodnoty do textových "
+"vstupů"
+
+#| msgid ""
+#| "If specified, current Filter terms become available only after parent "
+#| "Filter selected"
+msgid ""
+"If specified, current Filter terms become available only after the parent "
+"Filter selected"
+msgstr ""
+"Pokud je zadáno, aktuální termíny filtru jsou k dispozici až po výběru "
+"nadřazeného filtru"
+
+msgid "Image"
+msgstr "Obraz"
+
+msgid "Improved dropdowns"
+msgstr "Vylepšené rozbalovací nabídky"
+
+msgid "In stock"
+msgstr "Skladem"
+
+#: src/Admin/FilterFields.php:119
+msgid "In URL"
+msgstr "V adrese URL"
+
+msgid "include"
+msgstr "zahrnout"
+
+#: pro/Admin/SeoRules.php:587
+#| msgid "Include WordPress page for SEO rule"
+msgid "Include a WordPress page for SEO rule"
+msgstr "Zahrnout stránku WordPress pro pravidlo SEO"
+
+msgid "Include selected terms only"
+msgstr "Obsahovat pouze vybrané výrazy"
+
+#: src/Admin/FilterFields.php:126
+msgid "Include/Exclude Terms"
+msgstr "Zahrnout/vynechat podmínky"
+
+#: pro/Settings/Tabs/SeoRulesTab.php:132
+msgid "Indexed Filters"
+msgstr "Indexované filtry"
+
+#: pro/Settings/Tabs/IndexingDepth.php:85
+msgid "Indexing Depth"
+msgstr "Hloubka indexování"
+
+msgid "Individual AJAX containers for Filter Sets"
+msgstr "Jednotlivé kontejnery AJAX pro sady filtrů"
+
+msgid "Individual Filter Sets for any pages and archives"
+msgstr "Jednotlivé sady filtrů pro libovolné stránky a archivy"
+
+msgid "Information"
+msgstr "Informace"
+
+#: views/admin/seo-vars.php:3
+msgid "Insert variable"
+msgstr "Vložení proměnné"
+
+msgid ""
+"It also hides variable products if their variations are out of stock. Please "
+"do not use it together with the Filter by the Stock status!"
+msgstr ""
+"Skryje také variabilní produkty, pokud jejich varianty nejsou skladem. "
+"Nepoužívejte jej spolu s Filtrem podle stavu skladu!"
+
+msgid ""
+"It appears that this page does not contain a container with the specified "
+"«HTML id or class of the Posts Container». Try to specify the correct one in "
+"the Filter Set settings or the common plugin Settings."
+msgstr ""
+"Zdá se, že tato stránka neobsahuje kontejner se zadaným «CSS id nebo třída "
+"kontejneru příspěvků». Zkuste zadat správný v nastavení sady filtrů nebo v "
+"nastavení pluginu."
+
+msgid ""
+"It is fast, convenient, intuitive, and contains unique SEO features (in the "
+"PRO version)."
+msgstr ""
+"Je rychlý, pohodlný a intuitivní a obsahuje také jedinečné funkce pro SEO "
+"(ve verzi PRO)."
+
+msgid "It seems you like how Filter Everything does its job."
+msgstr "Zdá se, že se vám líbí, jak Filter Everything dělá svou práci."
+
+#: src/wpc-helpers.php:493
+msgid "item"
+msgstr "položka"
+
+msgid "Item #"
+msgstr "Položka č"
+
+#: src/wpc-helpers.php:492
+msgid "items"
+msgstr "položky"
+
+msgid "Label for the default dropdown option"
+msgstr "Název výchozí možnosti v rozevíracím seznamu"
+
+msgid "Labels for Chips"
+msgstr "Názvy pro Chips"
+
+#: src/Admin/FilterFields.php:246
+msgid "Labels list"
+msgstr "Seznam štítků"
+
+#: src/Admin/FilterSet.php:224
+msgid "Less options"
+msgstr "Méně možností"
+
+msgid "License"
+msgstr "Licence"
+
+msgid "License Information"
+msgstr "Licenční informace"
+
+msgid "License Key"
+msgstr "Licenční klíč"
+
+msgid "Locked"
+msgstr "Zamčeno"
+
+#| msgid ""
+#| "Locked status means that you can not update Filter Set and SEO Rule "
+#| "settings. All other plugin features works as usual."
+msgid ""
+"Locked status means you can not update Filter Set and SEO Rule settings. All "
+"other plugin features work as usual."
+msgstr ""
+"Stav uzamčeno znamená, že nemůžete aktualizovat nastavení sady filtrů a "
+"pravidel SEO. Všechny ostatní funkce pluginu fungují jako obvykle."
+
+msgid "Main Query."
+msgstr "Hlavní dotaz."
+
+#: src/Admin/FilterFields.php:137
+#| msgid "Makes filter collapsible in widget"
+msgid "Makes filter collapsible in the widget"
+msgstr "Způsobí, že filtr je ve widgetu sbalitelný"
+
+msgid "Menu order &laquo;123&raquo;"
+msgstr "Objednávka menu &laquo;123&raquo;"
+
+msgid "Menu order &laquo;321&raquo;"
+msgstr "Objednávka menu &laquo;321&raquo;"
+
+#: pro/Admin/SeoRules.php:181
+msgid "Meta Description"
+msgstr "Meta popis"
+
+#: src/Admin/FilterFields.php:80
+msgid "Meta Key"
+msgstr "Meta klíč"
+
+#: src/Settings/Tabs/SettingsTab.php:28
+msgid "Mobile devices"
+msgstr "Mobilní zařízení"
+
+#: src/Admin/FilterSet.php:223 views/admin/filter-row.php:25
+msgid "More options"
+msgstr "Další možnosti"
+
+msgid ""
+"More PHP date formats can be found on <a href=\"%1$s\" target=\"_blank\">"
+"this page</a>."
+msgstr ""
+"Další formáty data v jazyce PHP naleznete na <a href=\"%1$s\" "
+"target=\"_blank\">této stránce</a>."
+
+msgid "More/Less"
+msgstr "Více/Méně"
+
+msgid "N/A"
+msgstr "NEUPLATŇUJE SE"
+
+msgid "Name (post slug)"
+msgstr "Název (post slug)"
+
+#| msgid "Name of a part of URL responsible for this filter"
+msgid "Name of a part of the URL responsible for this filter"
+msgstr "Název části adresy URL odpovědné za tento filtr"
+
+#: src/Admin/FilterFields.php:83
+#| msgid ""
+#| "Name of the Custom Field. Please, see Popular Meta keys at the bottom"
+msgid ""
+"Name of the Custom Field. Please, see the Popular Meta keys at the bottom"
+msgstr ""
+"Název vlastního pole. Podívejte se prosím na oblíbené meta klíče v dolní "
+"části"
+
+msgid "Need Your Help"
+msgstr "Potřebuji tvou pomoc"
+
+msgid "Never hide"
+msgstr "Nikdy se neschovávejte"
+
+#: src/Admin/FilterFields.php:67 src/PostTypes.php:49
+msgid "New Filter"
+msgstr "Nový filtr"
+
+#: src/PostTypes.php:24
+msgid "New Filter Set"
+msgstr "Nová sada filtrů"
+
+#: pro/PostTypes.php:22
+msgid "New SEO Rule"
+msgstr "Nové pravidlo SEO"
+
+msgid "No"
+msgstr "Ne"
+
+#: pro/Admin/SeoRules.php:568
+msgid "No archive page"
+msgstr "Žádná stránka archivu"
+
+#: src/PostTypes.php:28
+msgid "No Filter Sets were found in Trash"
+msgstr "V Koši nebyly nalezeny žádné sady filtrů"
+
+#: src/PostTypes.php:52
+msgid "No Filters found"
+msgstr "Nebyly nalezeny žádné filtry"
+
+#: src/Settings/Tabs/PermalinksTab.php:298
+#, php-format
+msgid ""
+"No filters have been created on this site yet. <a href=\"%s\" "
+"target=\"_blank\">Create your first one!</a>"
+msgstr ""
+"Na této stránce zatím nebyly vytvořeny žádné filtry. <a href=\"%s\" "
+"target=\"_blank\">Vytvořte si svůj první filtr!</a>"
+
+#: src/PostTypes.php:53
+#| msgid "No Filter Sets found in Trash"
+msgid "No Filters were found in Trash"
+msgstr "V Koši nebyly nalezeny žádné sady filtrů"
+
+msgid ""
+"No one Filter Set is configured for this post type pages. You can create a "
+"new <a href=\"%s\">Filter Set</a> for them."
+msgstr ""
+"Pro tento typ stránek není nakonfigurována žádná sada filtrů. Můžete pro ně "
+"vytvořit novou <a href=\"%s\">Sadu filtrů</a>."
+
+msgid ""
+"No one Filter Set is related to this page. You can configure it in the <a "
+"href=\"%s\">Filter Set</a> -> \"Where to filter?\" field."
+msgstr ""
+"S touto stránkou nesouvisí žádná sada filtrů. Můžete ji nastavit v poli <a "
+"href=\"%s\">Sada filtrů</a> -> \"Kde filtrovat?\"."
+
+msgid "No page selected"
+msgstr "Není vybrána žádná stránka"
+
+#: pro/PostTypes.php:25
+msgid "No SEO Rules found. Create your first SEO Rule."
+msgstr "Nebyla nalezena žádná pravidla SEO. Vytvořte své první pravidlo SEO."
+
+#: pro/PostTypes.php:26
+#| msgid "No SEO Rules found in Trash"
+msgid "No SEO Rules were found in Trash"
+msgstr "V Koši nebyla nalezena žádná pravidla SEO"
+
+#: pro/Admin/SeoRules.php:1194
+msgid "No SEO vars"
+msgstr "Žádné SEO vars"
+
+msgid "No title"
+msgstr "Bez názvu"
+
+#| msgid "No WP Queries matched to the post type \"%s\" found on the page"
+msgid "No WP Queries matched the post type \"%s\" found on the page"
+msgstr ""
+"Na stránce nebyly nalezeny žádné dotazy WP odpovídající typu příspěvku \"%s\""
+
+#: src/wpc-default-hooks.php:23
+msgid "Not On Sale"
+msgstr "Není v prodeji"
+
+msgid ""
+"Note: filters will only show if there is Filter Set registered for a page(s)"
+msgstr ""
+"Poznámka: filtry se zobrazí pouze v případě, že je pro stránku (stránky) "
+"zaregistrována sada filtrů"
+
+msgid ""
+"Note: for ACF meta fields, please use names without the \"_\" character at "
+"the beginning"
+msgstr "Poznámka: pro metapole ACF používejte názvy bez znaku \"_\" na začátku"
+
+msgid ""
+"Note: if you modify the selected WP_Query on the page, please update this "
+"Filter Set"
+msgstr ""
+"Poznámka: pokud na stránce upravíte vybraný dotaz WP_Query, aktualizujte "
+"prosím tuto sadu filtrů"
+
+#: src/Admin/FilterFields.php:248
+#| msgid "Numeric Range"
+msgid "Numeric range"
+msgstr "Číselný rozsah"
+
+msgid "On backorder"
+msgstr "Na doobjednávku"
+
+#: src/wpc-default-hooks.php:20
+msgid "On Sale"
+msgstr "V prodeji"
+
+msgid "OR"
+msgstr "NEBO"
+
+msgid "Order"
+msgstr "Objednávka"
+
+msgid "Order By"
+msgstr "Objednat podle"
+
+#: src/Entities/EntityManager.php:124
+msgid "Other"
+msgstr "Další"
+
+msgid "Other Filters"
+msgstr "Ostatní filtry"
+
+msgid "Out of stock"
+msgstr "Není skladem"
+
+msgid "Out of stock visibility"
+msgstr "Viditelnost vyprodaných zásob"
+
+msgid "Overview"
+msgstr "Přehled"
+
+#: pro/SeoFrontend.php:141
+#, php-format
+msgid "page %d"
+msgstr "stránka %d"
+
+#: pro/Admin/SeoRules.php:580
+msgid "Page archive for:"
+msgstr "Archiv stránek pro:"
+
+msgid "Parent Filter"
+msgstr "Nadřazený filtr"
+
+msgid ""
+"Please enable this option only after you have ensured that the filtering is "
+"working correctly"
+msgstr ""
+"Tuto možnost povolte až poté, co se ujistíte, že filtrování funguje správně"
+
+msgid "Please enable this, if the widget doesn't appear"
+msgstr "Pokud se widget nezobrazuje, povolte prosím tuto funkci"
+
+msgid "Please specify taxonomies whose filters should display color swatches"
+msgstr ""
+"Uveďte prosím taxonomie, jejichž filtry by měly zobrazovat vzorky barev"
+
+msgid "Please, add filters first"
+msgstr "Nejprve přidejte filtry"
+
+msgid "Please, do not call the \"%s\" function before the \"wp\" action"
+msgstr "Prosím, nevolejte funkci \"%s\" před háček \"wp\"."
+
+msgid ""
+"Please, help me make the plugin more popular - leave a good review for it."
+msgstr ""
+"Prosím, pomozte mi udělat plugin populárnější - zanechte na něj dobrou "
+"recenzi."
+
+#| msgid ""
+#| "Please, specify desired Sorting widget by adding id parameter to the "
+#| "shortcode."
+msgid ""
+"Please, specify desired Sorting widget by adding the id parameter to the "
+"shortcode."
+msgstr "Zadejte požadovaný widget Třídění přidáním parametru id do zkratky."
+
+msgid "Pop-up Filters Widget compatibility mode"
+msgstr "Režim kompatibility s vyskakovacími filtry Widget"
+
+#| msgid ""
+#| "Possible reasons: 1) Filter's criteria doesn't contain any terms yet and "
+#| "you have to add them 2) Terms may be created, but no one post that should "
+#| "be filtered attached to these terms 3) You excluded all possible terms in "
+#| "Filter's options."
+msgid ""
+"Possible reasons: 1) Filter's criterion doesn't contain any terms yet, and "
+"you have to add them 2) Terms may be created, but no one post that should be "
+"filtered attached to these terms 3) You excluded all possible terms in "
+"Filter's options."
+msgstr ""
+"Možné důvody: 1) Kritéria filtru ještě neobsahují žádné termíny a je třeba "
+"je přidat. 2) Termíny mohou být vytvořeny, ale žádný příspěvek, který by měl "
+"být filtrován, není k těmto termínům připojen. 3) V možnostech filtru jste "
+"vyloučili všechny možné termíny."
+
+#: src/Entities/EntityManager.php:126
+msgid "Post Author"
+msgstr "Autor příspěvku"
+
+msgid "Post Date"
+msgstr "Datum příspěvku"
+
+#: pro/Admin/SeoRules.php:159 src/Admin/FilterSet.php:30
+#: views/admin/filters-seo-rules.php:22
+msgid "Post Type"
+msgstr "Typ příspěvku"
+
+#: pro/Admin/Admin.php:60 src/Admin/AdminHooks.php:136
+msgid "Post type"
+msgstr "Typ příspěvku"
+
+msgid "Post Type to filter"
+msgstr "Typ příspěvku pro filtrování"
+
+msgid "Post types"
+msgstr "Typy příspěvků"
+
+#: src/Admin/FilterFields.php:259
+msgid "Posts count &laquo;123&raquo;"
+msgstr "Počet příspěvků &laquo;123&raquo;"
+
+#: src/Admin/FilterFields.php:262
+msgid "Posts count &laquo;321&raquo;"
+msgstr "Počet příspěvků &laquo;321&raquo;"
+
+#: src/Admin/FilterFields.php:87
+msgid "Prefix for URL"
+msgstr "Předpona pro adresu URL"
+
+#: src/Settings/Tabs/PermalinksTab.php:174
+msgid ""
+"Prefix part before the \"-\" character can not be equal to another existing "
+"prefix."
+msgstr ""
+"Část prefixu před znakem \"-\" se nemůže rovnat jinému existujícímu prefixu."
+
+#| msgid ""
+#| "Prefix «%s» is not allowed, because such term already exists. Please, use "
+#| "another prefix."
+msgid ""
+"Prefix «%s» is not allowed because such a term already exists. Please, use "
+"another prefix."
+msgstr ""
+"Předpona «%s» není povolena, protože takový výraz již existuje. Prosím, "
+"použijte jinou předvolbu."
+
+msgid "Premium support"
+msgstr "Prémiová podpora"
+
+#| msgid "Preview selected location in a new tab"
+msgid "Preview the selected location in a new tab"
+msgstr "Náhled vybraného umístění na nové kartě"
+
+#: src/Admin/FilterSet.php:71
+msgid "Priority"
+msgstr "Priorita"
+
+msgid "PRO"
+msgstr "PRO"
+
+#: pro/Admin/MetaBoxes.php:31 src/Admin/MetaBoxes.php:42
+#: src/Admin/MetaBoxes.php:266
+msgid "Publish"
+msgstr "Zveřejnit"
+
+msgid "query"
+msgstr "dotaz"
+
+#: src/Admin/FilterFields.php:245
+msgid "Radio buttons"
+msgstr "Rádiová tlačítka"
+
+msgid "Random"
+msgstr "Náhodný"
+
+msgid "Read more"
+msgstr "Přečtěte si více"
+
+msgid "Registered"
+msgstr "Registrovaný"
+
+msgid "Regular price"
+msgstr "Běžná cena"
+
+#: views/frontend/chips.php:4
+#, php-format
+msgid "Remove %s from results"
+msgstr "Odstranění %s z výsledků"
+
+msgid "Remove image"
+msgstr "Odebrat obrázek"
+
+msgid "Reset"
+msgstr "Obnovení"
+
+#: src/Chips.php:39
+msgid "Reset all"
+msgstr "Vymazat filtry"
+
+msgid "Reset Button label"
+msgstr "Štítek tlačítka Reset"
+
+#: pro/Admin/Admin.php:59
+msgid "Rule ID"
+msgstr "ID pravidla"
+
+#: pro/Admin/MetaBoxes.php:16
+msgid "Rule Settings"
+msgstr "Nastavení pravidel"
+
+msgid "Search"
+msgstr "Vyhledávání"
+
+msgid "Search ..."
+msgstr "Vyhledávací ..."
+
+msgid "Search by keyword"
+msgstr "Textové vyhledávání"
+
+#| msgid "Search field"
+msgid "Search Field"
+msgstr "Vyhledávací pole"
+
+msgid "Search Field Placeholder"
+msgstr "Zástupný symbol pole"
+
+msgid "Search Field Title"
+msgstr "Název vyhledávacího pole"
+
+#: src/PostTypes.php:26
+msgid "Search Filter Sets"
+msgstr "Sady vyhledávacích filtrů"
+
+#: src/PostTypes.php:51
+msgid "Search Filters"
+msgstr "Vyhledávací filtry"
+
+msgid "Search results page for selected Post Type"
+msgstr "Stránka s výsledky vyhledávání pro vybraný typ příspěvku"
+
+#: pro/PostTypes.php:24
+msgid "Search SEO Rule"
+msgstr "Vyhledávání SEO Pravidlo"
+
+msgid "search: %s"
+msgstr "hledat: %s"
+
+msgid "See less"
+msgstr "Ukaž méně"
+
+msgid "See more"
+msgstr "Ukaž víc"
+
+#: pro/Admin/SeoRules.php:480 views/frontend/dropdown.php:12
+#, php-format
+msgid "Select %s"
+msgstr "Vyberte %s"
+
+msgid "Select %s first"
+msgstr "Nejprve vyberte %s"
+
+msgid "Select or enter hooks"
+msgstr "Vyberte nebo zadejte WP 'hooks'"
+
+#: pro/Admin/SeoRules.php:165
+msgid "Select Post Type"
+msgstr "Vyberte typ příspěvku"
+
+#: views/admin/filters-seo-rules.php:24
+msgid "Select Post Type for SEO Rule"
+msgstr "Vyberte typ příspěvku pro pravidlo SEO"
+
+#: src/Admin/FilterSet.php:239
+msgid "Select terms and"
+msgstr "Zvolte termíny a"
+
+#: src/Admin/FilterSet.php:36
+#| msgid "Select Post Type you need to filter"
+msgid "Select the Post Type you need to filter"
+msgstr "Vyberte typ příspěvku, který potřebujete filtrovat"
+
+msgid ""
+"Select where to show Chips on your site. Or enter your theme's hooks. For "
+"example: before_main_content"
+msgstr ""
+"Zvolte, kde se mají Štítky na vašich stránkách zobrazovat. Nebo zadejte "
+"'hooks' svého WP tématu. Například: before_main_content"
+
+#: src/Settings/Tabs/SettingsTab.php:79
+msgid "Selected Filters (Chips) integration"
+msgstr "Integrace vybraných filtrů (Štítků)"
+
+#: pro/Admin/SeoRules.php:200
+msgid "SEO Description"
+msgstr "SEO Popis"
+
+#: pro/PostTypes.php:18
+msgid "SEO Rule"
+msgstr "Pravidlo SEO"
+
+#: pro/Admin/Admin.php:45 pro/PostTypes.php:15 pro/PostTypes.php:17
+#: pro/Settings/Tabs/SeoRulesTab.php:36
+msgid "SEO Rules"
+msgstr "Pravidla SEO"
+
+msgid "SEO Rules, indexing filtering result pages by Search Engines"
+msgstr ""
+"Pravidla SEO, indexování stránek s výsledky vyhledávání ve vyhledávačích"
+
+#: pro/Admin/SeoRules.php:171
+msgid "SEO Title"
+msgstr "Název SEO"
+
+#: src/Admin/Admin.php:39 src/Admin/AdminHooks.php:27
+#: src/Admin/MetaBoxes.php:27
+msgid "Settings"
+msgstr "Nastavení"
+
+msgid "Shop page"
+msgstr "Stránka obchodu"
+
+#: src/Admin/Widgets/FiltersWidget.php:70
+#, php-format
+msgid "Show %s"
+msgstr "Zobrazit %s"
+
+msgid "Show a toggle link after %s terms"
+msgstr "Přidá přepínač po %s výrazech"
+
+msgid "Show Chips only for Set with IDs:"
+msgstr "Zobrazit Štítky pouze pro sadu s ID:"
+
+#: src/Admin/FilterSet.php:61
+msgid "Show counters"
+msgstr "Zobrazit počítadla"
+
+#: src/Admin/FilterFields.php:152
+msgid "Show filter selected terms in the list of all chosen items"
+msgstr "Zobrazit filtrované výrazy v seznamu všech vybraných položek"
+
+msgid "Show Hierarchy"
+msgstr "Zobrazit hierarchii"
+
+#: src/Settings/Tabs/ExperimentalTab.php:32
+msgid "Show icon"
+msgstr "Zobrazit ikonu"
+
+#: src/Admin/FilterFields.php:149
+msgid "Show in Chips"
+msgstr "Zobrazit ve Štítcích"
+
+msgid "Show on mobile"
+msgstr "Zobrazit v mobilu"
+
+#: src/Admin/Widgets/FiltersWidget.php:189
+msgid "Show selected terms (Chips)"
+msgstr "Zobrazit vybrané pojmy (Štítky)"
+
+msgid "Show Term names"
+msgstr "Zobrazit názvy termínů"
+
+#: src/Admin/Widgets/FiltersWidget.php:193
+#| msgid "Show number of posts found"
+msgid "Show the number of posts found"
+msgstr "Zobrazit počet nalezených příspěvků"
+
+#| msgid "Show this Filter Set if page is:"
+msgid "Show this Filter Set if the page is:"
+msgstr "Zobrazit tuto sadu filtrů, pokud stránka je:"
+
+#: src/Settings/Tabs/SettingsTab.php:38
+msgid "Sidebar on top"
+msgstr "Postranní panel nahoře"
+
+#: src/Admin/FilterFields.php:163
+msgid "Slider Step"
+msgstr "Posuvný krok"
+
+#: src/Settings/Tabs/ExperimentalTab.php:48
+msgid "Smart Auto Scroll (on desktop only)"
+msgstr "Inteligentní automatické posouvání (pouze na počítači)"
+
+msgid "Smart filtering by Woo product variations"
+msgstr "Chytré filtrování podle variant produktů Woo"
+
+#: views/admin/filters-intersections.php:40
+#| msgid "Sorry. There is no filters active for SEO for selected post type"
+msgid "Sorry. There are no filters active for SEO for the selected post type"
+msgstr ""
+"Omlouvám se. Pro vybraný typ příspěvku nejsou aktivní žádné filtry pro SEO"
+
+#: src/Admin/FilterFields.php:111
+msgid "Sort Terms by"
+msgstr "Třídit podmínky podle"
+
+msgctxt "sorting"
+msgid "ASC"
+msgstr "ASC"
+
+msgctxt "sorting"
+msgid "Author"
+msgstr "Autor"
+
+msgctxt "sorting"
+msgid "Date"
+msgstr "Datum"
+
+msgctxt "sorting"
+msgid "DESC"
+msgstr "DESC"
+
+msgctxt "sorting"
+msgid "Meta key"
+msgstr "Meta klíč"
+
+msgctxt "sorting"
+msgid "Meta key numeric"
+msgstr "Meta klíč číselný"
+
+msgctxt "sorting"
+msgid "Number of comments"
+msgstr "Počet komentářů"
+
+msgctxt "sorting"
+msgid "Product price"
+msgstr "Cena výrobku"
+
+msgctxt "sorting"
+msgid "Product rating"
+msgstr "Hodnocení produktu"
+
+msgctxt "sorting"
+msgid "Product reviews number"
+msgstr "Počet recenzí produktu"
+
+msgctxt "sorting"
+msgid "Product sales number"
+msgstr "Prodejní číslo produktu"
+
+msgctxt "sorting"
+msgid "Title"
+msgstr "Název"
+
+msgid "Sorting options:"
+msgstr "Možnosti třídění:"
+
+msgid "Sorting widget"
+msgstr "Widget pro třídění"
+
+msgid "Special Pop-up Filters Widget for Mobile"
+msgstr "Speciální vyskakovací filtry Widget pro mobilní zařízení"
+
+msgid "Special Pop-up Filters widget for Mobile Devices"
+msgstr "Speciální widget Pop-up filtry pro mobilní zařízení"
+
+msgid "Specify if needed or leave empty"
+msgstr "V případě potřeby uveďte nebo ponechte prázdné"
+
+msgid "Specify individual HTML selector of Posts Container for AJAX"
+msgstr "Zadání individuálního selektoru HTML kontejneru příspěvků pro AJAX"
+
+#: pro/PluginPro.php:256
+msgid "Specify page(s) where the Posts list should be filtered is located"
+msgstr ""
+"Zadejte stránky, na kterých se nacházejí Seznam příspěvků, které mají být "
+"filtrovány"
+
+#: views/admin/filters-seo-rules.php:35
+#| msgid ""
+#| "Specify filter or filters combination for which you need to set SEO data"
+msgid ""
+"Specify the filter or filters combination for which you need to set SEO data"
+msgstr ""
+"Zadejte filtr nebo kombinaci filtrů, pro které potřebujete nastavit data SEO"
+
+#: pro/Settings/Tabs/SeoRulesTab.php:36
+#, php-format
+#| msgid ""
+#| "Check filters, pages of which should be available for indexing by search "
+#| "engines.<br />Besides this you will also need to <a href=\"%s\" "
+#| "target=\"_blank\">create %s</a> to make filter pages available for "
+#| "indexing."
+msgid ""
+"Specify the filters which pages should be available for indexing by search "
+"engines.<br />Besides this you will also need to <a href=\"%s\" "
+"target=\"_blank\">create %s</a> to make filter pages available for indexing."
+msgstr ""
+"Zkontrolujte filtry, jejichž stránky by měly být dostupné pro indexování "
+"vyhledávači.<br />Kromě toho budete muset také <a href=\"%s\" "
+"target=\"_blank\">vytvořit %s</a>, aby byly stránky filtru dostupné pro "
+"indexování."
+
+msgid "Stars for Product rating filter"
+msgstr "Hvězdičky pro filtr hodnocení produktů"
+
+#: src/Admin/FilterFields.php:166
+msgid ""
+"Step 1 means possible values are 1,2,3,4 ...<br />Step 0.1 means possible "
+"values are 5.1, 5.2, 5.3, 5.4 ...<br />Step 15 means possible values are 15, "
+"30, 45, 60..."
+msgstr ""
+"Krok 1 znamená, že možné hodnoty jsou 1,2,3,4 ...<br />Krok 0.1 znamená, že "
+"možné hodnoty jsou 5.1, 5.2, 5.3, 5.4 ...<br />Krok 15 znamená, že možné "
+"hodnoty jsou 15, 30, 45, 60..."
+
+msgid "Step-by-Step filtering"
+msgstr "Filtrování krok za krokem"
+
+msgid "Styled checkboxes and radio buttons"
+msgstr "Stylizovaná zaškrtávací políčka a rádiová tlačítka"
+
+msgid "Supports AJAX"
+msgstr "Podporuje AJAX"
+
+msgid "Sure, you deserve 5 stars"
+msgstr "Jistě, zasloužíte si 5 hvězdiček"
+
+msgid "Taxonomies"
+msgstr "Taxonomie"
+
+msgid "Taxonomies for Color swatches"
+msgstr "Taxonomie pro vzorníky barev"
+
+msgid "Taxonomy"
+msgstr "Taxonomie"
+
+#: src/Entities/EntityManager.php:111
+msgid "Taxonomy Filters"
+msgstr "Filtry taxonomie"
+
+msgid "Taxonomy Numeric"
+msgstr "Taxonomie Numerický"
+
+msgid "Taxonomy Numeric - Available in Pro"
+msgstr "Taxonomie Numerická – k dispozici v PRO"
+
+msgid "Taxonomy with numeric values you need to filter by"
+msgstr "Taxonomie s číselnými hodnotami, podle kterých musíte filtrovat"
+
+#: src/Admin/FilterFields.php:260
+msgid "Term ID &laquo;123&raquo;"
+msgstr "ID termínu &laquo;123&raquo;"
+
+#: src/Admin/FilterFields.php:263
+msgid "Term ID &laquo;321&raquo;"
+msgstr "ID termínu &laquo;321&raquo;"
+
+#: src/Admin/FilterFields.php:258
+msgid "Term name &laquo;abc&raquo;"
+msgstr "Název termínu &laquo;abc&raquo;"
+
+#: src/Admin/FilterFields.php:261
+msgid "Term name &laquo;cba&raquo;"
+msgstr "Název termínu &laquo;cba&raquo;"
+
+msgid "Term names for filters with swatches or brand images may be hidden"
+msgstr ""
+"Názvy termínů pro filtry se vzorníky nebo obrázky značek mohou být skryté"
+
+msgid "Terms Search"
+msgstr "Vyhledávací termíny"
+
+msgid "Thank you so much!"
+msgstr "Děkuji mnohokrát!"
+
+#| msgid ""
+#| "\"Default\" option means that terms will be sorted in the order as they "
+#| "were received from DataBase<br />The \"Menu order\" option is available "
+#| "for WooCommerce attributes only."
+msgid ""
+"The \"Default\" option means that terms will be sorted in the order as they "
+"were received from the Database<br />The \"Menu order\" option is available "
+"for WooCommerce attributes only."
+msgstr ""
+"možnost \"Výchozí\" znamená, že termíny budou seřazeny v pořadí, v jakém "
+"byly přijaty z databáze DataBase<br />Možnost \"Pořadí v nabídce\" je k "
+"dispozici pouze pro atributy WooCommerce."
+
+#: pro/Admin/SeoRules.php:112 src/Admin/FilterSet.php:151
+msgid "The Custom field has been deleted."
+msgstr "Vlastní pole odstraněno."
+
+#: pro/Admin/SeoRules.php:111 src/Admin/FilterSet.php:150
+msgid "The Custom field has been updated."
+msgstr "Vlastní pole aktualizováno."
+
+msgid ""
+"The Filter Everything Sorting widget only works on pages with filtering "
+"posts."
+msgstr ""
+"Třídicí widget Filter Everything funguje pouze na stránkách, které mají "
+"filtrovatelné příspěvky."
+
+#: src/Admin/FilterSet.php:158
+msgid "The Filter set draft has been updated."
+msgstr "Aktualizován návrh sady filtrů."
+
+#: src/Admin/FilterSet.php:154
+msgid "The Filter set has been created."
+msgstr "Vytvořená sada filtrů."
+
+#: src/Admin/FilterSet.php:155
+msgid "The Filter set has been saved."
+msgstr "Uložení sady filtrů."
+
+#: src/Admin/FilterSet.php:157
+msgid "The Filter set has been scheduled for"
+msgstr "Sada filtrů naplánovaná na"
+
+#: src/Admin/FilterSet.php:156
+msgid "The Filter set has been submitted."
+msgstr "Předložená sada filtrů."
+
+#: src/Admin/FilterSet.php:149 src/Admin/FilterSet.php:152
+msgid "The Filter set has been updated."
+msgstr "Sada filtrů aktualizována."
+
+#: src/Admin/FilterSet.php:160
+msgid "The Filter set has not been updated."
+msgstr "Sada filtrů nebyla aktualizována."
+
+msgid ""
+"The free version of the plugin does not support filtering on singular pages. "
+"But <a href=\"%s\">PRO version</a> supports."
+msgstr ""
+"Bezplatná verze pluginu nepodporuje filtrování jednotlivých stránek. Ale <a "
+"href=\"%s\">PRO verze</a> podporuje."
+
+msgid "The image will be shown in the filter term."
+msgstr "Obrázek se zobrazí v termínu filtru."
+
+#| msgid "License was successfully activated."
+msgid "The license was successfully activated."
+msgstr "Licence byla úspěšně aktivována."
+
+#| msgid "License was successfully deactivated."
+msgid "The license was successfully deactivated."
+msgstr "Licence byla úspěšně deaktivována."
+
+#: src/Admin/FilterFields.php:115
+#| msgid "The order in which terms appear in widget"
+msgid "The order in which terms appear in the widget"
+msgstr "Pořadí, v jakém se výrazy objevují ve widgetu"
+
+#: src/Settings/Tabs/PermalinksTab.php:164
+#| msgid "Prefix must contain at least one alphabetical character."
+msgid "The Prefix must contain at least one alphabetical character."
+msgstr "Prefix musí obsahovat alespoň jeden abecední znak."
+
+msgid "The same page as for filtered posts"
+msgstr "Stejná stránka jako pro filtrované příspěvky"
+
+#| msgid "Selected color will be shown in the filter term."
+msgid "The selected color will be shown in the filter term."
+msgstr "Vybraná barva se zobrazí v termínu filtru."
+
+#: pro/Admin/SeoRules.php:119
+msgid "The SEO rule draft has been updated."
+msgstr "Aktualizace návrhu pravidel SEO."
+
+#: pro/Admin/SeoRules.php:115
+msgid "The SEO rule has been created."
+msgstr "Vytvořené pravidlo SEO."
+
+#: pro/Admin/SeoRules.php:116
+msgid "The SEO rule has been saved."
+msgstr "Pravidlo SEO uloženo."
+
+#: pro/Admin/SeoRules.php:118
+msgid "The SEO rule has been scheduled for"
+msgstr "Pravidlo SEO naplánované na"
+
+#: pro/Admin/SeoRules.php:117
+msgid "The SEO rule has been submitted."
+msgstr "Předložené pravidlo SEO."
+
+#: pro/Admin/SeoRules.php:110 pro/Admin/SeoRules.php:113
+msgid "The SEO rule has been updated."
+msgstr "Aktualizováno pravidlo SEO."
+
+#: pro/Admin/Admin.php:136
+#| msgid "Title will be created automatically"
+msgid "The title will be created automatically"
+msgstr "Název se vytvoří automaticky"
+
+#: views/frontend/checkboxes.php:26 views/frontend/dropdown.php:26
+#: views/frontend/labels.php:31 views/frontend/radio.php:27
+#: views/frontend/range.php:67
+msgid "There are no filter terms yet"
+msgstr "Filtr ještě nemá podmínky"
+
+msgid ""
+"There are no filters in the Filter Set yet. Please add them to the <a "
+"href=\"%s\">Filter Set</a> related to this page."
+msgstr ""
+"V sadě filtrů zatím nejsou žádné filtry. Přidejte je prosím do <a "
+"href=\"%s\">Sady filtrů</a> související s touto stránkou."
+
+#: views/admin/filters-set.php:38
+#| msgid ""
+#| "No filters yet. Click the <strong>Add Filter</strong> button to create "
+#| "your first one."
+msgid ""
+"There are no filters yet. Click the <strong>Add Filter</strong> button to "
+"create your first one."
+msgstr ""
+"Zatím žádné filtry. Klikněte na tlačítko <strong>Přidat filtr</strong> a "
+"vytvořte svůj první filtr."
+
+#: pro/Settings/Tabs/IndexingDepth.php:79
+msgid "There are no Post types to filter. Create a Filter Set first."
+msgstr ""
+"Neexistují žádné typy příspěvků, které by bylo možné filtrovat. Nejprve "
+"vytvořte sadu filtrů."
+
+#: pro/Admin/SeoRules.php:256
+msgid "There are no Post Types with filters available for SEO rules yet.<br />"
+msgstr ""
+"Zatím nejsou k dispozici žádné typy příspěvků s filtry pro pravidla SEO.<br "
+"/>"
+
+msgid "There are no posts with such filtering criteria on this site."
+msgstr "Na této stránce nejsou žádné příspěvky s takovými kritérii filtrování."
+
+msgid "There are no Sorting widgets on this site yet. Please, create it first."
+msgstr ""
+"Na této stránce zatím nejsou žádné widgety pro třídění. Prosím, vytvořte je "
+"jako první."
+
+#| msgid ""
+#| "This filter is inactive because it is not related with the selected post "
+#| "type."
+msgid ""
+"This filter is inactive because it is not related to the selected post type."
+msgstr ""
+"Tento filtr je neaktivní, protože nesouvisí s vybraným typem příspěvku."
+
+msgid "Time"
+msgstr "Čas"
+
+#: views/admin/filters-set.php:30
+msgid "Title"
+msgstr "Název"
+
+msgid "Title:"
+msgstr "Titul:"
+
+msgid ""
+"To allow the plugin to update automatically and avoid blocking some of its "
+"features, please enter your license key on the <a href=\"%1$s\">License "
+"page</a>."
+msgstr ""
+"Chcete-li povolit automatickou aktualizaci pluginu a vyhnout se blokování "
+"některých jeho funkcí, zadejte prosím svůj licenční klíč na <a href=\"%1$s\">"
+"stránce licence</a>."
+
+msgid ""
+"To enable automatic plugin updates, please enter your license key below. If "
+"you purchased the plugin, please click the “Get your License Key” button.<br "
+"/>If you didn't do it yet, please <a href=\"%1$s\" target=\"_blank\">"
+"purchase it here</a>."
+msgstr ""
+"Chcete-li povolit automatické aktualizace pluginu, zadejte níže svůj "
+"licenční klíč. Pokud jste si plugin zakoupili, klikněte prosím na tlačítko "
+"„Získat licenční klíč“.<br />Pokud jste tak ještě neudělali, <a "
+"href=\"%1$s\" target=\"_blank\">zakupte jej zde</a>."
+
+#| msgid ""
+#| "To enable updates, please enter your license key on the <a href=\"%1$s\">"
+#| "License</a> page. If you don't have a licence key, please <a "
+#| "href=\"%2$s\" target=\"_blank\">purchase it here</a>."
+msgid ""
+"To enable updates, please enter your license key on the <a href=\"%1$s\">"
+"License</a> page. If you don't have a license key, please <a href=\"%2$s\" "
+"target=\"_blank\">purchase it here</a>."
+msgstr ""
+"Щоб увімкнути оновлення, введіть ліцензійний ключ на сторінці <a "
+"href=\"%1$s\">Ліцензія</a>. Якщо у вас немає ліцензійного ключа, <a "
+"href=\"%2$s\" target=\"_blank\">придбайте його тут</a>."
+
+#| msgid "To hide or not a Filter terms that do not contain posts"
+msgid "To hide or not Filter terms that do not contain posts"
+msgstr "Skrytí nebo neskrytí termínů filtru, které neobsahují příspěvky"
+
+msgid "Tooltip"
+msgstr "Nápověda k nástrojům"
+
+#: src/Settings/Tabs/SettingsTab.php:40
+#| msgid "Try to move sidebar to top on mobile devices"
+msgid "Try to move the sidebar to the top on mobile devices"
+msgstr "Zkuste přesunout postranní panel nahoru na mobilních zařízeních"
+
+#: src/Settings/Tabs/SettingsTab.php:81
+msgid "Try to show selected terms above the posts container"
+msgstr "Zkuste zobrazit vybrané výrazy nad kontejnerem s příspěvky"
+
+#: src/Settings/Tabs/SettingsTab.php:51
+msgid "Try to use AJAX"
+msgstr "Zkuste použít AJAX"
+
+msgid "Unknown error."
+msgstr "Neznámá chyba."
+
+msgid ""
+"Unlike most widgets, the Filters widget does not always show filters. It is "
+"rather a canvas where filters can be displayed if there is a Filter Set "
+"registered for the page. You can specify this page or pages in the \"Where "
+"to filter?\" field of a Filter Set."
+msgstr ""
+"Na rozdíl od většiny widgetů se ve widgetu Filtry nezobrazují vždy filtry. "
+"Je to spíše plátno, na kterém se filtry mohou zobrazit, pokud je pro stránku "
+"zaregistrována sada filtrů. Tuto stránku nebo stránky můžete zadat v poli "
+"\"Kde filtrovat?\" Sady filtrů."
+
+msgid "Unregistered"
+msgstr "Neregistrovaný"
+
+msgid "Upload image"
+msgstr "Nahrát obrázek"
+
+#: views/admin/filters-set.php:33
+msgid "URL Prefix"
+msgstr "Předpona URL"
+
+#: src/Settings/Tabs/PermalinksTab.php:304
+msgid "URL Prefixes"
+msgstr "Předpony URL"
+
+msgid "URL Var Names"
+msgstr "Názvy proměnných URL"
+
+#: src/Settings/Tabs/ExperimentalTab.php:44
+#| msgid "Use dark transparent overlay instead of white"
+msgid "Use a dark transparent overlay instead of white"
+msgstr "Použití tmavého průhledného překryvu místo bílého"
+
+msgid "Use for Variations"
+msgstr "Použití pro variace"
+
+msgid "Use improved dropdowns instead of regular ones (jQuery plugin Select2)"
+msgstr ""
+"Použití vylepšených rozbalovacích nabídek místo běžných (jQuery plugin "
+"Select2)"
+
+#: src/Settings/Tabs/ExperimentalTab.php:38
+msgid "Use Wait Cursor for AJAX"
+msgstr "Použití kurzoru Wait pro AJAX"
+
+#| msgid "Use «%d» as id for widget with title «%s»"
+msgid "Use «%d» as the id for the widget with the title «%s»"
+msgstr "Použít \"%d\" jako id pro widget s názvem \"%s\""
+
+#: src/Admin/FilterFields.php:138
+#| msgid ""
+#| "Useful in situation when the filter is rarely applied but takes up some "
+#| "space in widget. Collapsed by default."
+msgid ""
+"Useful in situations when the filter is rarely applied but takes up some "
+"space in the widget. Collapsed by default."
+msgstr ""
+"Užitečné v situaci, kdy se filtr používá zřídka, ale zabírá místo ve widgetu."
+" Ve výchozím nastavení je sbalený."
+
+msgid "Var Name for URL"
+msgstr "Název proměnné pro adresu URL"
+
+#: pro/Admin/SeoRules.php:267
+#| msgid ""
+#| "Variables will be replaced with specific values on the page matches "
+#| "current SEO Rule.<br />For example on the page with URL path:<br />/color-"
+#| "blue/size-large/<br />variables {color} and {size} will be replaced with "
+#| "words \"blue\" and \"large\"."
+msgid ""
+"Variables will be replaced with specific values on the page that matches the "
+"current SEO Rule.<br />For example, on the page with URL path:<br />/color-"
+"blue/size-large/<br />variables {color} and {size} will be replaced with "
+"words \"blue\" and \"large\"."
+msgstr ""
+"Proměnné budou nahrazeny konkrétními hodnotami na stránce, která odpovídá "
+"aktuálnímu pravidlu SEO.<br />Například na stránce s cestou URL:<br />/color-"
+"blue/size-large/<br />budou proměnné {color} a {size} nahrazeny slovy "
+"\"blue\" a \"large\"."
+
+msgid "Version %s"
+msgstr "Verze %s"
+
+msgid "Vertical and Horizontal layouts"
+msgstr "Vertikální a Horizontální rozložení"
+
+#: views/admin/filters-set.php:32
+msgid "View"
+msgstr "Zobrazit"
+
+msgid "View details"
+msgstr "Zobrazit podrobnosti"
+
+#: src/PostTypes.php:50
+msgid "View Filter"
+msgstr "Zobrazit filtr"
+
+#: src/PostTypes.php:25
+msgid "View Filter Set"
+msgstr "Zobrazit sadu filtrů"
+
+#: src/Admin/FilterFields.php:94
+msgid "View in Widget"
+msgstr "Zobrazit ve widgetu"
+
+#: pro/PostTypes.php:23
+msgid "View SEO Rule"
+msgstr "Zobrazit pravidlo SEO"
+
+msgid "Visit website"
+msgstr "Navštivte webové stránky"
+
+#: src/Settings/Tabs/ExperimentalTab.php:36
+msgid "Wait Cursor (on desktop only)"
+msgstr "Čekání na kurzor (pouze na ploše)"
+
+#: pro/PluginPro.php:250 src/Admin/FilterSet.php:41
+msgid "Where to filter?"
+msgstr "Kde filtrovat?"
+
+#: src/Settings/Tabs/SettingsTab.php:67
+msgid "Widget Primary Color"
+msgstr "Základní barva widgetu"
+
+msgid "Widget shortcode:"
+msgstr "Zkratka widgetu:"
+
+#: src/Admin/FilterFields.php:68
+#| msgid "Will appear in Filters widget"
+msgid "Will appear in the Filters widget"
+msgstr "Zobrazí se ve widgetu Filtry"
+
+msgid "Will appear next to the Filter Title"
+msgstr "Zobrazí se vedle názvu filtru"
+
+#: pro/Admin/SeoRules.php:460
+#, php-format
+msgid "Without %s"
+msgstr "Bez %s"
+
+#: pro/Admin/SeoRules.php:570
+msgid "Without archive page"
+msgstr "Bez archivní stránky"
+
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+msgid "WooCommerce archive description"
+msgstr "Popis archivu WooCommerce"
+
+msgid "WooCommerce before main content"
+msgstr "WooCommerce před hlavním obsahem"
+
+msgid "WooCommerce before Shop loop"
+msgstr "WooCommerce před smyčkou Shop"
+
+msgid "WooCommerce no products found"
+msgstr "WooCommerce nebyly nalezeny žádné produkty"
+
+msgid "Woocommerce Order By dropdown"
+msgstr "Woocommerce Rozbalovací seznam Objednat podle"
+
+msgid "WordPress"
+msgstr "WordPress"
+
+#| msgid "Wrong Sorting widget id. Please, specify correct."
+msgid "Wrong Sorting widget id. Please, specify the correct."
+msgstr "Chybné id widgetu Třídění. Zadejte prosím správný."
+
+msgid "Yes"
+msgstr "Ano"
+
+#| msgid ""
+#| "You have been using the plugin for more than two months without license "
+#| "key and now it is locked."
+msgid ""
+"You have been using the plugin for over two months without a license key, "
+"and it is now locked."
+msgstr ""
+"Plugin používáte déle než dva měsíce bez licenčního klíče a nyní je uzamčen."
+
+#| msgid ""
+#| "You have been using the plugin for more than two months without license "
+#| "key and now it is locked. Read more on the <a href=\"%1$s\">License "
+#| "page</a>."
+msgid ""
+"You have been using the plugin for over two months without a license key, "
+"and it is now locked. Read more on the <a href=\"%1$s\">License page</a>."
+msgstr ""
+"Plugin používáte déle než dva měsíce bez licenčního klíče a nyní je uzamčen. "
+"Další informace naleznete na <a href=\"%1$s\">stránce licence</a>."
+
+#: pro/Admin/SeoRules.php:257
+#, php-format
+msgid ""
+"You have to activate them on the <a href=\"%s\" target=\"_blank\">%s "
+"settings page</a> first."
+msgstr ""
+"Nejprve je musíte aktivovat na <a href=\"%s\" target=\"_blank\">straně "
+"nastavení%s</a>."
+
+#| msgid ""
+#| "You will need to log into your Envato account to generate the License Key."
+msgid "You must log in to your Envato account to generate the License Key."
+msgstr ""
+"Pro vygenerování licenčního klíče se budete muset přihlásit ke svému účtu "
+"Envato."
+
+msgid "You must specify Posts Container, otherwise AJAX will not work properly"
+msgstr "Musíte zadat kontejner příspěvků, jinak nebude AJAX fungovat správně"
+
+msgid "«Apply Button» mode"
+msgstr "Režim tlačítka \"Použít\""
+
+msgid "«Auto-submission» and «Apply button» modes"
+msgstr "Režimy «Automatické odeslání» a tlačítka «Použít»"
+
+#: src/Admin/FilterFields.php:107
+#| msgid ""
+#| "«OR» means to show posts if them are at least in one of selected terms. "
+#| "<br />«AND» means, that posts should belong to all selected terms at the "
+#| "same time."
+msgid ""
+"«OR» means to show posts if they are at least in one of the selected terms. "
+"<br />«AND» means that posts should belong to all selected terms at the same "
+"time."
+msgstr ""
+"\"NEBO\" znamená, že se příspěvky zobrazí, pokud jsou alespoň v jednom z "
+"vybraných termínů. <br />\"AND\" znamená, že příspěvky by měly patřit do "
+"všech vybraných termínů zároveň."
+
+msgid "— No page for selection —"
+msgstr "- Žádná stránka pro výběr -"
+
+msgid "— Select Filter —"
+msgstr "- Vybrat filtr -"
+
+msgid "— Select Query —"
+msgstr "- Vybrat dotaz -"
+
+msgid "— There are no vendors yet —"
+msgstr "— Zatím zde nejsou žádní prodejci —"
+
+msgid "— There is no any %s yet —"
+msgstr "- Zatím není k dispozici žádné %s -"

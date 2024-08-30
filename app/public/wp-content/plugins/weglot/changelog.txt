@@ -1,0 +1,12 @@
+*** Weglot Translate Changelog ***
+
+2024-07-30 - version 4.2.8
+* Added - Filter to prevent validation button check: Implemented a new filter to disable the validation button check.
+* Added - rel=nofollow to URLs containing Weglot parameters for auto-redirect: Enhanced SEO by adding rel=nofollow to URLs that include Weglot parameters.
+* Added - Filter to change home directory to translated URL: Introduced a new filter to modify the home directory to its translated URL.
+* Updated - Detection of checkout and cart URLs: Enhanced the detection mechanism for checkout and cart URLs for better accuracy.
+* Updated - Algolia compatibility: Improved integration and compatibility with Algolia search functionality.
+* Fixed - Underscore template parsing: Resolved issues with the parsing of underscore templates.
+* Fixed - Deprecated preg_match() usage: Corrected the deprecated use of preg_match() to comply with the latest PHP standards.
+* Fixed - Deprecated strpos() usage: Addressed the deprecated use of strpos() to prevent warnings in the latest PHP versions.0
+* Fixed - Deprecated json_decode() usage: Fixed the deprecated use of json_decode() to ensure compatibility with current PHP versions.
